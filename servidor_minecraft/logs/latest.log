@@ -1,43 +1,78 @@
-[00:12:34] [Server thread/INFO]: Stopping the server
-[00:12:34] [Server thread/INFO]: Stopping server
-[00:12:34] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR3.1.11
-[00:12:34] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.6.2-3e052553
-[00:12:34] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[00:12:34] [Server thread/INFO]: [MythicMobs] - 
-[00:12:34] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
-[00:12:34] [Server thread/INFO]: [MythicMobs] - 
-[00:12:34] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[00:12:34] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
-[00:12:34] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
-[00:12:34] [Server thread/INFO]: [MythicMobs] Saving plugin data...
-[00:12:34] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
-[00:12:34] [Server thread/INFO]: [MythicMobs] - Variables saved...
-[00:12:34] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
-[00:12:34] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
-[00:12:34] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[00:12:34] [Server thread/INFO]: [MythicMobs] Saving plugin data...
-[00:12:34] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
-[00:12:34] [Server thread/INFO]: Saving players
-[00:12:34] [Server thread/INFO]: Saving worlds
-[00:12:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:12:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[00:12:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[00:12:34] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[00:12:35] [Server thread/INFO]: [ChunkHolderManager] Saved 1507 block chunks, 43 entity chunks, 0 poi chunks in world 'world' in 0.67s
-[00:12:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:12:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:12:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[00:12:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[00:12:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[00:12:35] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 18 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[00:12:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:12:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:12:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[00:12:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[00:12:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[00:12:35] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[00:12:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:12:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:12:35] [Server thread/INFO]: Flushing Chunk IO
-[00:12:35] [Server thread/INFO]: Closing Thread Pool
-[00:12:35] [Server thread/INFO]: Closing Server
+[18:44:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:44:02] [ServerMain/INFO]: Loaded 1174 recipes
+[18:44:03] [ServerMain/INFO]: Loaded 1271 advancements
+[18:44:03] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[18:44:03] [Server thread/INFO]: Loading properties
+[18:44:03] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[18:44:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:44:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:44:04] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[18:44:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[18:44:05] [Server thread/INFO]: Default game type: SURVIVAL
+[18:44:05] [Server thread/INFO]: Generating keypair
+[18:44:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:44:05] [Server thread/INFO]: Using epoll channel type
+[18:44:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:44:05] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[18:44:05] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.6.2-3e052553
+[18:44:05] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[18:44:06] [Server thread/INFO]: [MythicMobs] §4M§6y§6t§6h§2i§2c§2 §3E§3n§1a§1b§1l§5e§5d§4!
+[18:44:06] [Server thread/INFO]: [ModelEngine] Loading server plugin ModelEngine vR3.1.11
+[18:44:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:44:06] [Server thread/INFO]: Preparing level "world"
+[18:44:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:44:07] [Server thread/INFO]: Time elapsed: 364 ms
+[18:44:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:44:07] [Server thread/INFO]: Time elapsed: 117 ms
+[18:44:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:44:07] [Server thread/INFO]: Time elapsed: 43 ms
+[18:44:07] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.6.2-3e052553
+[18:44:08] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.20.4)...
+[18:44:08] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[18:44:12] [Server thread/INFO]: [MythicMobs] Base directory /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/data
+[18:44:12] [Server thread/INFO]: [MythicMobs] Module directory /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/data/worlds
+[18:44:14] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[18:44:15] [Server thread/INFO]: [MythicMobs] Loading Items...
+[18:44:15] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[18:44:15] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[18:44:15] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[18:44:15] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[18:44:15] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[18:44:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[18:44:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[18:44:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[18:44:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 52 skills.
+[18:44:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[18:44:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[18:44:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[18:44:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[18:44:15] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[18:44:16] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[18:44:16] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.6.2 ( build 3e052553 ) has been successfully loaded!
+[18:44:16] [Server thread/INFO]: [ModelEngine] Enabling ModelEngine vR3.1.11
+[18:44:16] [Server thread/INFO]: [MythicMobs] Model Engine Compatibility Loaded.
+[18:44:16] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: MythicMobs
+[18:44:16] [Server thread/INFO]: [ModelEngine] [S] bStats enabled
+[18:44:16] [Server thread/INFO]: Running delayed init tasks
+[18:44:16] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[18:44:16] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[18:44:16] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[18:44:16] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[18:44:16] [Server thread/INFO]: Done (12.928s)! For help, type "help"
+[18:44:16] [Server thread/INFO]: Timings Reset
+[18:44:16] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[18:44:16] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[18:44:16] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[18:44:16] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[18:44:16] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[18:44:16] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[18:44:16] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[18:44:16] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[18:44:17] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[18:44:17] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[18:44:18] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[18:44:18] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[18:44:19] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[18:44:19] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.

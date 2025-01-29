@@ -76,3 +76,12 @@
 [18:44:18] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
 [18:44:19] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
 [18:44:19] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[20:00:46] [User Authenticator #0/INFO]: UUID of player CJML5067 is e1de9dcd-3543-45db-83b2-98b702632780
+[20:00:47] [Server thread/INFO]: CJML5067 joined the game
+[20:00:47] [Server thread/INFO]: CJML5067[/127.150.122.140:57997] logged in with entity id 209 at ([world]157.32877437423267, 66.0, 45.30000001192093)
+[20:02:40] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarSoldier
+[20:02:51] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarEnemies
+[20:02:56] [Server thread/INFO]: CJML5067 issued server command: /time set day
+[20:02:56] [Server thread/INFO]: [CJML5067: Set the time to 1000]
+[20:03:36] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/410, uuid='bbb7ee8a-6dcd-4832-aa5e-2c2075c643af', l='ServerLevel[world]', x=144.14, y=64.00, z=57.79, cpos=[9, 3], tl=1123, v=true] died: Soldado Somar was slain by Soldado Enemigo
+[20:03:47] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarSoldier

@@ -9,8 +9,8 @@ Disparar:
     - delay 55
     - projectile{bullet=block;material=STONE;vO=1;g=0.1;v=25;syo=5;sfo=2;mr=500;int=0.01} @Forward{a=40}
 GirarDerecha:
-  Conditions:
-  - yaw{y=0to360} true
+  TargetConditions:
+    - isLiving true
   Skills:
     - setrotation{relative=true;pitch=0;yaw=25} @Self
 GirarIzquierda:

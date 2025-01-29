@@ -21,4 +21,5 @@ SomarCatapult:
   Skills:
     - skill{s=CPrepareModelSomar} @Self ~onSpawn
     - skill{s=Disparar;Sync=true} ~onDamaged
-    - skill{s=GirarDerecha} ~onInteract
+    - skill{s=GirarDerecha} @LivingInCone{a=120;r=3;rot=90} ~onInteract
+    - skill{s=GirarDerecha} @LivingInCone{a=120;r=3;rot=-90} ~onInteract

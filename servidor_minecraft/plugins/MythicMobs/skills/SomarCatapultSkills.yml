@@ -10,7 +10,7 @@ Disparar:
     - projectile{bullet=block;material=STONE;vO=1;g=0.1;v=25;syo=5;sfo=2;mr=500;int=0.01} @Forward{a=40}
 GirarDerecha:
   Skills:
-    - setrotation{relative=true;pitch=0;yaw=10} @Self
+    - setrotation{relative=true;pitch=0;yaw=25} @Self
 GirarIzquierda:
   Skills:
-    - 
+    - setrotation{relative=true;pitch=0;yaw=-25} @Self

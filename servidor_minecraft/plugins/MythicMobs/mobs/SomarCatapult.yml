@@ -1,0 +1,23 @@
+SomarCatapult:
+  Type: Giant
+  Display: 'Catapulta Somar'
+  Faction: Somar
+  AITargetSelectors:
+    - clear
+    - atacker
+    - monsters
+    - players
+  AIgoalSelectors:
+    - 0 clear
+  Options:
+    PreventSunburn: true
+    FollowRange: 100
+    movementspeed: 1.2
+    IAno: false
+  Modules:
+    ThreatTable: true
+  Health: 200
+  damage: 75
+  Skills:
+    - skill{s=CPrepareModelSomar} @Self ~onSpawn
+    - skill{s=Disparar;Sync=true} ~onInteract

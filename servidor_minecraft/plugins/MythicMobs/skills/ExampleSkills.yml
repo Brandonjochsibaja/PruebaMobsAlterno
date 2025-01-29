@@ -1,3 +1,6 @@
+# For more information, check out the plugin manual or join us on Discord:
+# http://www.mythicmobs.net
+#  
 SmashAttack:
   Cooldown: 8
   Conditions:
@@ -24,5 +27,4 @@ AngrySludgePoison:
   Cooldown: 10
   Skills:
   - potion{type=POISON;lvl=2;duration=100} @PlayersInRadius{r=15}
-  - effect:particles{p=happyVillager;amount=1000;hSpread=15;ySpread=1;speed=0;yOffset=0.5}
-    @Self
+  - effect:particles{p=happyVillager;amount=1000;hSpread=15;ySpread=1;speed=0;yOffset=0.5} @Self

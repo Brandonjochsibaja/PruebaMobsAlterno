@@ -1,0 +1,9 @@
+CPrepareModelSomar:
+  Skills:
+    - model{mid=CatapultaSomar;n="Somar Catapult"}
+Disparar:
+  Skills:
+    - state{mid=CatapultaSomar;s=animationLanzarBloque3} @Self
+    - message{m="interactuando"} @NearestPlayer
+    - delay 55
+    - projectile{bullet=block;material=STONE;vO=1;g=0.2;v=25;mr=500} @Forward{a=40}

@@ -16,7 +16,6 @@ Configuration:
   # Item Defaults - choose what item options default to
   #================================================================================
   DefaultItemOptions:
-    Material: STONE
     PreventEnchanting: false            # Can be true or false
     PreventCrafting: modeled            # Can be true, false, modeled, or default
     PreventAnviling: default            # Can be true, false, modeled, or default
@@ -32,7 +31,7 @@ Configuration:
   # Item Stats (requires Crucible)
   #================================================================================
   ItemStats:
-    Rounding: 2                         # Default decimal places to round stats to when generated
+    Rounding: 0                         # Decimal places to round stats to when generated
     SaveRatios: false                   # Save generated stat ratios for the Item Updater
 
   #================================================================================

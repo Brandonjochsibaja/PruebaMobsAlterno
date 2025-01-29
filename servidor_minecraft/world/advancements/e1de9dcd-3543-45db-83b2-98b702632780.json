@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-01-29 00:30:56 +0000",
+      "minecraft:river": "2025-01-29 20:11:16 +0000",
       "minecraft:stony_shore": "2025-01-29 00:30:50 +0000",
       "minecraft:savanna": "2025-01-29 00:14:00 +0000"
     },

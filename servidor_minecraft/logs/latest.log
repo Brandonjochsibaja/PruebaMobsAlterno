@@ -145,3 +145,92 @@
 [13:28:36] [Server thread/INFO]: [CJML5067: Successfully filled 120 block(s)]
 [13:28:45] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
 [13:28:45] [Server thread/INFO]: [CJML5067: Successfully filled 227 block(s)]
+[13:29:05] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
+[13:29:05] [Server thread/INFO]: [CJML5067: Successfully filled 237 block(s)]
+[13:29:12] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~40 ~-7 ~-40 air
+[13:29:12] [Server thread/INFO]: [CJML5067: Successfully filled 130 block(s)]
+[13:29:26] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-7 ~-50 air
+[13:29:26] [Server thread/INFO]: [CJML5067: Successfully filled 897 block(s)]
+[13:29:34] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-7 ~-50 air
+[13:29:34] [Server thread/INFO]: [CJML5067: Successfully filled 848 block(s)]
+[13:29:53] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-15 ~-50 air
+[13:30:06] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
+[13:30:06] [Server thread/INFO]: [CJML5067: Successfully filled 13260 block(s)]
+[13:30:15] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
+[13:30:15] [Server thread/INFO]: [CJML5067: Successfully filled 9623 block(s)]
+[13:30:40] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
+[13:30:40] [Server thread/INFO]: [CJML5067: Successfully filled 6419 block(s)]
+[13:30:47] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
+[13:30:47] [Server thread/INFO]: [CJML5067: Successfully filled 7640 block(s)]
+[13:30:51] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
+[13:30:51] [Server thread/INFO]: [CJML5067: Successfully filled 4591 block(s)]
+[13:31:03] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
+[13:31:05] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
+[13:31:05] [Server thread/INFO]: [CJML5067: Successfully filled 364 block(s)]
+[13:31:09] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
+[13:31:09] [Server thread/INFO]: [CJML5067: Successfully filled 194 block(s)]
+[13:31:27] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
+[13:31:27] [Server thread/INFO]: [CJML5067: Successfully filled 12005 block(s)]
+[13:31:36] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
+[13:31:36] [Server thread/INFO]: [CJML5067: Successfully filled 21099 block(s)]
+[13:31:48] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
+[13:31:48] [Server thread/INFO]: [CJML5067: Successfully filled 7266 block(s)]
+[13:31:50] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
+[13:31:50] [Server thread/INFO]: [CJML5067: Successfully filled 1135 block(s)]
+[13:32:35] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~80 ~-3 ~-50 air
+[13:32:35] [Server thread/INFO]: [CJML5067: Successfully filled 1404 block(s)]
+[13:32:42] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~80 ~-4 ~-50 air
+[13:32:42] [Server thread/INFO]: [CJML5067: Successfully filled 689 block(s)]
+[13:32:55] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~80 ~-4 ~-50 air
+[13:32:55] [Server thread/INFO]: [CJML5067: Successfully filled 7779 block(s)]
+[13:33:04] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~80 ~-4 ~-50 air
+[13:33:04] [Server thread/INFO]: [CJML5067: Successfully filled 2390 block(s)]
+[13:33:11] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~80 ~-4 ~-50 air
+[13:33:11] [Server thread/INFO]: [CJML5067: Successfully filled 829 block(s)]
+[13:33:46] [Server thread/INFO]: CJML5067 issued server command: /give @s minecraft:command_block
+[13:33:46] [Server thread/INFO]: [CJML5067: Gave 1 [Command Block] to CJML5067]
+[13:35:12] [Server thread/INFO]: Stopping the server
+[13:35:12] [Server thread/INFO]: Stopping server
+[13:35:12] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR3.1.11
+[13:35:12] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.6.2-3e052553
+[13:35:12] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[13:35:12] [Server thread/INFO]: [MythicMobs] - 
+[13:35:12] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
+[13:35:12] [Server thread/INFO]: [MythicMobs] - 
+[13:35:12] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[13:35:12] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
+[13:35:12] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
+[13:35:12] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:35:12] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:35:12] [Server thread/INFO]: [MythicMobs] - Variables saved...
+[13:35:12] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
+[13:35:12] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
+[13:35:12] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[13:35:12] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:35:12] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:35:12] [Server thread/INFO]: Saving players
+[13:35:12] [Server thread/INFO]: CJML5067 lost connection: Server closed
+[13:35:12] [Server thread/INFO]: CJML5067 left the game
+[13:35:12] [Server thread/INFO]: Saving worlds
+[13:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Saved 758 block chunks, 286 entity chunks, 0 poi chunks in world 'world' in 0.58s
+[13:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 19 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[13:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[13:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:35:12] [Server thread/INFO]: Flushing Chunk IO
+[13:35:12] [Server thread/INFO]: Closing Thread Pool
+[13:35:12] [Server thread/INFO]: Closing Server

@@ -12,6 +12,7 @@ GirarDerecha:
   TargetConditions:
     - isLiving true
   Skills:
+    - shootfireball 
     - setrotation{relative=true;pitch=0;yaw=25} @Self
 GirarIzquierda:
   Skills:

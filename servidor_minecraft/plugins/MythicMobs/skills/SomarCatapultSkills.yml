@@ -9,12 +9,10 @@ Disparar:
     - delay 55
     - projectile{bullet=block;material=STONE;vO=1;g=0.1;v=25;syo=5;sfo=2;mr=500;int=0.01} @Forward{a=40}
 GirarDerecha:
-  TargetConditions:
-    - isLiving true
   Skills:
-    - projectile{bullet=block;material=STONE;vO=1;g=0.1;v=25;syo=5;sfo=2;mr=500;int=0.01}
+    - projectile{bullet=block;material=STONE;vO=1;g=0.001;v=1;syo=5;sfo=2;mr=500;int=0.01}
     - message{m="interactuando"} @NearestPlayer
-    - setrotation{relative=true;pitch=0;yaw=25} @Self
+#   - setrotation{relative=true;pitch=0;yaw=25} @Self
 GirarIzquierda:
   Skills:
     - setrotation{relative=true;pitch=0;yaw=-25} @Self

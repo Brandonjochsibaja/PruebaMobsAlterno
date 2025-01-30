@@ -1,236 +1,793 @@
-[13:19:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:19:14] [ServerMain/INFO]: Loaded 1174 recipes
-[13:19:14] [ServerMain/INFO]: Loaded 1271 advancements
-[13:19:14] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[13:19:14] [Server thread/INFO]: Loading properties
-[13:19:14] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[13:19:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:19:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:19:15] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[13:35:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:35:46] [ServerMain/INFO]: Loaded 1174 recipes
+[13:35:47] [ServerMain/INFO]: Loaded 1271 advancements
+[13:35:47] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[13:35:47] [Server thread/INFO]: Loading properties
+[13:35:47] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[13:35:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:35:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:35:48] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[13:19:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[13:19:16] [Server thread/INFO]: Default game type: SURVIVAL
-[13:19:16] [Server thread/INFO]: Generating keypair
-[13:19:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:19:16] [Server thread/INFO]: Using epoll channel type
-[13:19:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[13:19:16] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[13:19:16] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.6.2-3e052553
-[13:19:16] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
-[13:19:16] [Server thread/INFO]: [MythicMobs] §4M§6y§6t§6h§2i§2c§2 §3E§3n§1a§1b§1l§5e§5d§4!
-[13:19:16] [Server thread/INFO]: [ModelEngine] Loading server plugin ModelEngine vR3.1.11
-[13:19:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:19:16] [Server thread/INFO]: Preparing level "world"
-[13:19:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:19:17] [Server thread/INFO]: Time elapsed: 315 ms
-[13:19:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[13:19:17] [Server thread/INFO]: Time elapsed: 112 ms
-[13:19:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[13:19:17] [Server thread/INFO]: Time elapsed: 151 ms
-[13:19:17] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.6.2-3e052553
-[13:19:18] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.20.4)...
-[13:19:18] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
-[13:19:21] [Server thread/INFO]: [MythicMobs] Base directory /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/data
-[13:19:21] [Server thread/INFO]: [MythicMobs] Module directory /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/data/worlds
-[13:19:23] [Server thread/INFO]: [MythicMobs] Loading Packs...
-[13:19:24] [Server thread/INFO]: [MythicMobs] Loading Items...
-[13:19:24] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
-[13:19:24] [Server thread/INFO]: [MythicMobs] Loading Skills...
-[13:19:24] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
-[13:19:24] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
-[13:19:24] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
-[13:19:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
-[13:19:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
-[13:19:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
-[13:19:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
-[13:19:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
-[13:19:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
-[13:19:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
-[13:19:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
-[13:19:24] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
-[13:19:24] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
-[13:19:24] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.6.2 ( build 3e052553 ) has been successfully loaded!
-[13:19:24] [Server thread/INFO]: [ModelEngine] Enabling ModelEngine vR3.1.11
-[13:19:24] [Server thread/INFO]: [MythicMobs] Model Engine Compatibility Loaded.
-[13:19:24] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: MythicMobs
-[13:19:24] [Server thread/INFO]: [ModelEngine] [S] bStats enabled
-[13:19:24] [Server thread/INFO]: Running delayed init tasks
-[13:19:24] [Server thread/INFO]: Done (10.326s)! For help, type "help"
-[13:19:24] [Server thread/INFO]: Timings Reset
-[13:19:24] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
-[13:19:24] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
-[13:19:24] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
-[13:19:24] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
-[13:19:24] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
-[13:19:24] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
-[13:19:25] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
-[13:19:25] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
-[13:19:25] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
-[13:19:25] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
-[13:19:25] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
-[13:19:25] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
-[13:19:26] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
-[13:19:26] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
-[13:19:26] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
-[13:19:26] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
-[13:19:27] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
-[13:19:27] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
-[13:20:32] [User Authenticator #0/INFO]: UUID of player CJML5067 is e1de9dcd-3543-45db-83b2-98b702632780
-[13:20:33] [Server thread/INFO]: CJML5067 joined the game
-[13:20:33] [Server thread/INFO]: CJML5067[/127.150.122.140:52675] logged in with entity id 220 at ([world]146.7887726320601, 65.0, 48.670911917295996)
-[13:22:31] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-7 ~-10 air
-[13:22:31] [Server thread/INFO]: [CJML5067: Successfully filled 629 block(s)]
-[13:23:09] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-5 ~-5 air
-[13:23:09] [Server thread/INFO]: [CJML5067: Successfully filled 170 block(s)]
-[13:23:24] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-5 ~-15 air
-[13:23:24] [Server thread/INFO]: [CJML5067: Successfully filled 350 block(s)]
-[13:23:31] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-5 ~-15 air
-[13:23:31] [Server thread/INFO]: [CJML5067: Successfully filled 27 block(s)]
-[13:24:05] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-5 ~-20 air
-[13:24:06] [Server thread/INFO]: [CJML5067: Successfully filled 635 block(s)]
-[13:24:18] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-5 ~-20 air
-[13:24:23] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-5 ~-20 air
-[13:24:23] [Server thread/INFO]: [CJML5067: Successfully filled 323 block(s)]
-[13:25:02] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-7 ~-30 air
-[13:25:02] [Server thread/INFO]: [CJML5067: Successfully filled 1737 block(s)]
-[13:25:10] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-7 ~-30 air
-[13:25:10] [Server thread/INFO]: [CJML5067: Successfully filled 844 block(s)]
-[13:25:13] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-7 ~-30 air
-[13:25:13] [Server thread/INFO]: [CJML5067: Successfully filled 219 block(s)]
-[13:25:33] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-30 air
-[13:25:33] [Server thread/INFO]: [CJML5067: Successfully filled 2789 block(s)]
-[13:25:52] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-30 air
-[13:25:52] [Server thread/INFO]: [CJML5067: Successfully filled 2587 block(s)]
-[13:25:57] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-30 air
-[13:25:57] [Server thread/INFO]: [CJML5067: Successfully filled 835 block(s)]
-[13:26:01] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-30 air
-[13:26:01] [Server thread/INFO]: [CJML5067: Successfully filled 426 block(s)]
-[13:26:04] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-30 air
-[13:26:04] [Server thread/INFO]: [CJML5067: Successfully filled 184 block(s)]
-[13:26:08] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-30 air
-[13:26:08] [Server thread/INFO]: [CJML5067: Successfully filled 231 block(s)]
-[13:26:19] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-30 air
-[13:26:19] [Server thread/INFO]: [CJML5067: Successfully filled 194 block(s)]
-[13:26:23] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-30 air
-[13:26:23] [Server thread/INFO]: [CJML5067: Successfully filled 146 block(s)]
-[13:26:54] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-9 ~-30 air
-[13:26:54] [Server thread/INFO]: [CJML5067: Successfully filled 1749 block(s)]
-[13:27:11] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-9 ~-30 air
-[13:27:11] [Server thread/INFO]: [CJML5067: Successfully filled 316 block(s)]
-[13:27:13] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-9 ~-30 air
-[13:27:13] [Server thread/INFO]: [CJML5067: Successfully filled 106 block(s)]
-[13:27:28] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-9 ~-40 air
-[13:27:28] [Server thread/INFO]: [CJML5067: Successfully filled 2392 block(s)]
-[13:27:43] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:27:43] [Server thread/INFO]: [CJML5067: Successfully filled 610 block(s)]
-[13:27:47] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:27:47] [Server thread/INFO]: [CJML5067: Successfully filled 791 block(s)]
-[13:27:53] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:27:53] [Server thread/INFO]: [CJML5067: Successfully filled 1215 block(s)]
-[13:27:57] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:27:57] [Server thread/INFO]: [CJML5067: Successfully filled 179 block(s)]
-[13:27:59] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:28:00] [Server thread/INFO]: [CJML5067: Successfully filled 230 block(s)]
-[13:28:01] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:28:01] [Server thread/INFO]: [CJML5067: Successfully filled 246 block(s)]
-[13:28:03] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:28:03] [Server thread/INFO]: [CJML5067: Successfully filled 216 block(s)]
-[13:28:12] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:28:12] [Server thread/INFO]: [CJML5067: Successfully filled 3 block(s)]
-[13:28:21] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:28:21] [Server thread/INFO]: [CJML5067: Successfully filled 211 block(s)]
-[13:28:30] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:28:36] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:28:36] [Server thread/INFO]: [CJML5067: Successfully filled 120 block(s)]
-[13:28:45] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:28:45] [Server thread/INFO]: [CJML5067: Successfully filled 227 block(s)]
-[13:29:05] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~20 ~-7 ~-40 air
-[13:29:05] [Server thread/INFO]: [CJML5067: Successfully filled 237 block(s)]
-[13:29:12] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~40 ~-7 ~-40 air
-[13:29:12] [Server thread/INFO]: [CJML5067: Successfully filled 130 block(s)]
-[13:29:26] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-7 ~-50 air
-[13:29:26] [Server thread/INFO]: [CJML5067: Successfully filled 897 block(s)]
-[13:29:34] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-7 ~-50 air
-[13:29:34] [Server thread/INFO]: [CJML5067: Successfully filled 848 block(s)]
-[13:29:53] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-15 ~-50 air
-[13:30:06] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
-[13:30:06] [Server thread/INFO]: [CJML5067: Successfully filled 13260 block(s)]
-[13:30:15] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
-[13:30:15] [Server thread/INFO]: [CJML5067: Successfully filled 9623 block(s)]
-[13:30:40] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
-[13:30:40] [Server thread/INFO]: [CJML5067: Successfully filled 6419 block(s)]
-[13:30:47] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
-[13:30:47] [Server thread/INFO]: [CJML5067: Successfully filled 7640 block(s)]
-[13:30:51] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
-[13:30:51] [Server thread/INFO]: [CJML5067: Successfully filled 4591 block(s)]
-[13:31:03] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
-[13:31:05] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
-[13:31:05] [Server thread/INFO]: [CJML5067: Successfully filled 364 block(s)]
-[13:31:09] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
-[13:31:09] [Server thread/INFO]: [CJML5067: Successfully filled 194 block(s)]
-[13:31:27] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
-[13:31:27] [Server thread/INFO]: [CJML5067: Successfully filled 12005 block(s)]
-[13:31:36] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
-[13:31:36] [Server thread/INFO]: [CJML5067: Successfully filled 21099 block(s)]
-[13:31:48] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
-[13:31:48] [Server thread/INFO]: [CJML5067: Successfully filled 7266 block(s)]
-[13:31:50] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~60 ~-8 ~-50 air
-[13:31:50] [Server thread/INFO]: [CJML5067: Successfully filled 1135 block(s)]
-[13:32:35] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~80 ~-3 ~-50 air
-[13:32:35] [Server thread/INFO]: [CJML5067: Successfully filled 1404 block(s)]
-[13:32:42] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~80 ~-4 ~-50 air
-[13:32:42] [Server thread/INFO]: [CJML5067: Successfully filled 689 block(s)]
-[13:32:55] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~80 ~-4 ~-50 air
-[13:32:55] [Server thread/INFO]: [CJML5067: Successfully filled 7779 block(s)]
-[13:33:04] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~80 ~-4 ~-50 air
-[13:33:04] [Server thread/INFO]: [CJML5067: Successfully filled 2390 block(s)]
-[13:33:11] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~80 ~-4 ~-50 air
-[13:33:11] [Server thread/INFO]: [CJML5067: Successfully filled 829 block(s)]
-[13:33:46] [Server thread/INFO]: CJML5067 issued server command: /give @s minecraft:command_block
-[13:33:46] [Server thread/INFO]: [CJML5067: Gave 1 [Command Block] to CJML5067]
-[13:35:12] [Server thread/INFO]: Stopping the server
-[13:35:12] [Server thread/INFO]: Stopping server
-[13:35:12] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR3.1.11
-[13:35:12] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.6.2-3e052553
-[13:35:12] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[13:35:12] [Server thread/INFO]: [MythicMobs] - 
-[13:35:12] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
-[13:35:12] [Server thread/INFO]: [MythicMobs] - 
-[13:35:12] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[13:35:12] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
-[13:35:12] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
-[13:35:12] [Server thread/INFO]: [MythicMobs] Saving plugin data...
-[13:35:12] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
-[13:35:12] [Server thread/INFO]: [MythicMobs] - Variables saved...
-[13:35:12] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
-[13:35:12] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
-[13:35:12] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[13:35:12] [Server thread/INFO]: [MythicMobs] Saving plugin data...
-[13:35:12] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
-[13:35:12] [Server thread/INFO]: Saving players
-[13:35:12] [Server thread/INFO]: CJML5067 lost connection: Server closed
-[13:35:12] [Server thread/INFO]: CJML5067 left the game
-[13:35:12] [Server thread/INFO]: Saving worlds
-[13:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Saved 758 block chunks, 286 entity chunks, 0 poi chunks in world 'world' in 0.58s
-[13:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 19 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[13:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:35:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[13:35:12] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[13:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:35:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[13:35:12] [Server thread/INFO]: Flushing Chunk IO
-[13:35:12] [Server thread/INFO]: Closing Thread Pool
-[13:35:12] [Server thread/INFO]: Closing Server
+[13:35:48] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[13:35:48] [Server thread/INFO]: Default game type: SURVIVAL
+[13:35:48] [Server thread/INFO]: Generating keypair
+[13:35:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:35:48] [Server thread/INFO]: Using epoll channel type
+[13:35:48] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:35:48] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:35:49] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.6.2-3e052553
+[13:35:49] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[13:35:49] [Server thread/INFO]: [MythicMobs] §4M§6y§6t§6h§2i§2c§2 §3E§3n§1a§1b§1l§5e§5d§4!
+[13:35:49] [Server thread/INFO]: [ModelEngine] Loading server plugin ModelEngine vR3.1.11
+[13:35:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:35:49] [Server thread/INFO]: Preparing level "world"
+[13:35:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:35:50] [Server thread/INFO]: Time elapsed: 268 ms
+[13:35:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:35:50] [Server thread/INFO]: Time elapsed: 157 ms
+[13:35:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:35:50] [Server thread/INFO]: Time elapsed: 131 ms
+[13:35:50] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.6.2-3e052553
+[13:35:51] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.20.4)...
+[13:35:51] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[13:35:53] [Server thread/INFO]: [MythicMobs] Base directory /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/data
+[13:35:53] [Server thread/INFO]: [MythicMobs] Module directory /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/data/worlds
+[13:35:55] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:35:56] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:35:56] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:35:56] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:35:56] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:35:56] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:35:56] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:35:56] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:35:56] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:35:56] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:35:56] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:35:56] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:35:56] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:35:56] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:35:56] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:35:56] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[13:35:56] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[13:35:56] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.6.2 ( build 3e052553 ) has been successfully loaded!
+[13:35:56] [Server thread/INFO]: [ModelEngine] Enabling ModelEngine vR3.1.11
+[13:35:56] [Server thread/INFO]: [MythicMobs] Model Engine Compatibility Loaded.
+[13:35:56] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: MythicMobs
+[13:35:56] [Server thread/INFO]: [ModelEngine] [S] bStats enabled
+[13:35:56] [Server thread/INFO]: Running delayed init tasks
+[13:35:56] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[13:35:56] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[13:35:56] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[13:35:56] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[13:35:56] [Server thread/INFO]: Done (9.505s)! For help, type "help"
+[13:35:56] [Server thread/INFO]: Timings Reset
+[13:35:56] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[13:35:56] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[13:35:56] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[13:35:56] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[13:35:57] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[13:35:57] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[13:35:57] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[13:35:57] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[13:35:57] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[13:35:57] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[13:35:58] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[13:35:58] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[13:35:59] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[13:35:59] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[13:37:11] [User Authenticator #0/INFO]: UUID of player CJML5067 is e1de9dcd-3543-45db-83b2-98b702632780
+[13:37:11] [Server thread/INFO]: CJML5067 joined the game
+[13:37:11] [Server thread/INFO]: CJML5067[/127.150.122.140:51287] logged in with entity id 360 at ([world]40.796730088390476, 65.0, -8.706668827865917)
+[13:37:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:37:43] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:37:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:05] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:16] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:16] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:17] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:54] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:54] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:54] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:54] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:54] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:54] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:54] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:54] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:54] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:54] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:54] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:55] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:56] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:56] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:56] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:56] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:56] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:56] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:56] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:56] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:56] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:38:56] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:39:56] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-20 ~-5 air
+[13:39:56] [Server thread/INFO]: [CJML5067: Successfully filled 1184 block(s)]
+[13:40:08] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-20 ~-5 air
+[13:40:08] [Server thread/INFO]: [CJML5067: Successfully filled 671 block(s)]
+[13:40:13] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-20 ~-5 air
+[13:40:13] [Server thread/INFO]: [CJML5067: Successfully filled 756 block(s)]
+[13:40:27] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-20 ~-5 air
+[13:40:27] [Server thread/INFO]: [CJML5067: Successfully filled 1187 block(s)]
+[13:40:32] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-20 ~-5 air
+[13:40:32] [Server thread/INFO]: [CJML5067: Successfully filled 655 block(s)]
+[13:40:36] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-20 ~-5 air
+[13:40:36] [Server thread/INFO]: [CJML5067: Successfully filled 936 block(s)]
+[13:41:30] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player,distance=..5]
+[13:41:36] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player,distance=..5]
+[13:41:41] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player,distance=..5]
+[13:41:41] [Server thread/INFO]: [CJML5067: Killed 3 entities]
+[13:41:44] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player,distance=..5]
+[13:41:44] [Server thread/INFO]: [CJML5067: Killed Shulker]
+[13:41:51] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player,distance=..5]
+[13:41:51] [Server thread/INFO]: [CJML5067: Killed Shulker]
+[13:41:55] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player,distance=..5]
+[13:42:01] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player,distance=..5]
+[13:42:01] [Server thread/INFO]: [CJML5067: Killed Shulker]
+[13:42:23] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-10 ~-5 stone
+[13:42:23] [Server thread/INFO]: [CJML5067: Successfully filled 726 block(s)]
+[13:42:38] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-10 ~-5 air
+[13:42:38] [Server thread/INFO]: [CJML5067: Successfully filled 660 block(s)]
+[13:42:50] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-10 ~-5 stone
+[13:42:50] [Server thread/INFO]: [CJML5067: Successfully filled 660 block(s)]
+[13:42:55] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-10 ~-5 air
+[13:42:55] [Server thread/INFO]: [CJML5067: Successfully filled 715 block(s)]
+[13:43:09] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-10 ~-5 stone
+[13:43:09] [Server thread/INFO]: [CJML5067: Successfully filled 715 block(s)]
+[13:43:28] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-10 ~-10 stone
+[13:43:28] [Server thread/INFO]: [CJML5067: Successfully filled 1331 block(s)]
+[13:43:48] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-10 ~-10 stone
+[13:43:48] [Server thread/INFO]: [CJML5067: Successfully filled 756 block(s)]
+[13:44:03] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-10 ~-10 stone
+[13:44:03] [Server thread/INFO]: [CJML5067: Successfully filled 461 block(s)]
+[13:44:26] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-10 ~-10 stone
+[13:44:26] [Server thread/INFO]: [CJML5067: Successfully filled 452 block(s)]
+[13:45:01] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:01] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:01] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:01] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:01] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:01] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:02] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:22] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:45:23] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:46:07] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-2 ~-10 stone
+[13:46:07] [Server thread/INFO]: [CJML5067: Successfully filled 363 block(s)]
+[13:46:18] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-2 ~-10 air
+[13:46:18] [Server thread/INFO]: [CJML5067: Successfully filled 330 block(s)]
+[13:46:24] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-2 ~-10 stone
+[13:46:24] [Server thread/INFO]: [CJML5067: Successfully filled 242 block(s)]
+[13:46:35] [Server thread/INFO]: CJML5067 issued server command: /fill ~ ~ ~ ~10 ~-2 ~-10 air
+[13:46:35] [Server thread/INFO]: [CJML5067: Successfully filled 33 block(s)]
+[13:46:50] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[13:47:59] [Server thread/INFO]: [Mythic] Reloading plugin...
+[13:47:59] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:47:59] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:47:59] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:47:59] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:47:59] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:47:59] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:47:59] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:47:59] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:47:59] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:47:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:47:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:47:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:47:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:47:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:47:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:47:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:47:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:47:59] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[13:47:59] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[13:48:24] [Server thread/INFO]: CJML5067 issued server command: /time set day
+[13:48:24] [Server thread/INFO]: [CJML5067: Set the time to 1000]
+[13:49:25] [Server thread/INFO]: [Mythic] Reloading plugin...
+[13:49:25] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:49:25] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:49:25] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:49:25] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:49:25] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:49:25] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:49:25] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:49:25] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:49:25] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:49:25] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:49:25] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:49:25] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:49:25] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:49:25] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:49:25] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:49:25] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:49:25] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:49:25] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[13:49:25] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[13:49:59] [Server thread/INFO]: [Mythic] Reloading plugin...
+[13:49:59] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:49:59] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:49:59] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:49:59] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:49:59] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:49:59] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:49:59] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:49:59] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:49:59] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:49:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:49:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:49:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:49:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:49:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:49:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:49:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:49:59] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:49:59] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[13:49:59] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[13:50:55] [Server thread/INFO]: [Mythic] Reloading plugin...
+[13:50:55] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:50:55] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:50:55] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:50:55] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:50:55] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:50:55] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:50:55] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:50:55] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:50:55] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:50:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:50:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:50:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:50:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:50:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:50:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:50:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:50:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:50:55] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[13:50:55] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[13:51:41] [Server thread/INFO]: [Mythic] Reloading plugin...
+[13:51:41] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:51:41] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:51:41] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:51:41] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:51:41] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:51:41] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:51:41] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:51:41] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:51:41] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:51:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:51:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:51:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:51:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:51:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:51:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:51:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:51:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:51:41] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[13:51:41] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[13:52:13] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:13] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:13] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:13] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:14] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:38] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:38] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:38] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:38] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:38] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:38] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:38] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:39] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:52:40] [Server thread/INFO]: [@: Summoned new Shulker]
+[13:53:44] [Server thread/INFO]: [Mythic] Reloading plugin...
+[13:53:44] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:53:44] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:53:44] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:53:44] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:53:44] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:53:44] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:53:44] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:53:44] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:53:44] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:53:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:53:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:53:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:53:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:53:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:53:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:53:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:53:44] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:53:44] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[13:53:44] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[13:54:46] [Server thread/INFO]: [Mythic] Reloading plugin...
+[13:54:46] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:54:46] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:54:46] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:54:47] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:54:47] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:54:47] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:54:47] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:54:47] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:54:47] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:54:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:54:47] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[13:54:47] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[13:55:51] [Server thread/INFO]: [Mythic] Reloading plugin...
+[13:55:51] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:55:51] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:55:51] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:55:51] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:55:51] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:55:51] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:55:51] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:55:51] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:55:51] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:55:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:55:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:55:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:55:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:55:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:55:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:55:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:55:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:55:51] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[13:55:51] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[13:56:11] [Server thread/INFO]: [Mythic] Reloading plugin...
+[13:56:11] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:56:11] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:56:11] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:56:11] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:56:11] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:56:11] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:56:11] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:56:11] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:56:11] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:56:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:56:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:56:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:56:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:56:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:56:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:56:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:56:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:56:11] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[13:56:11] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[13:56:39] [Server thread/INFO]: [Mythic] Reloading plugin...
+[13:56:39] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:56:39] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:56:39] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:56:40] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:56:40] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:56:40] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:56:40] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:56:40] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:56:40] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:56:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:56:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:56:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:56:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:56:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:56:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:56:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:56:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:56:40] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[13:56:40] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[13:57:07] [Server thread/INFO]: [Mythic] Reloading plugin...
+[13:57:07] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:57:07] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:57:07] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:57:08] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:57:08] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:57:08] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:57:08] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:57:08] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:57:08] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:57:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:57:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:57:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:57:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:57:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:57:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:57:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:57:08] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:57:08] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[13:57:08] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[13:59:40] [Server thread/INFO]: [Mythic] Reloading plugin...
+[13:59:40] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[13:59:40] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[13:59:40] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[13:59:40] [Server thread/INFO]: [MythicMobs] Loading Items...
+[13:59:40] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[13:59:40] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[13:59:40] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[13:59:40] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[13:59:40] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[13:59:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[13:59:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[13:59:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[13:59:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[13:59:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[13:59:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[13:59:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[13:59:40] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[13:59:40] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[13:59:40] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[13:59:46] [Server thread/INFO]: CJML5067 issued server command: /time set day
+[13:59:46] [Server thread/INFO]: [CJML5067: Set the time to 1000]
+[14:02:20] [Server thread/INFO]: [Mythic] Reloading plugin...
+[14:02:20] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:02:20] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:02:20] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[14:02:20] [Server thread/INFO]: [MythicMobs] Loading Items...
+[14:02:20] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[14:02:20] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[14:02:20] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[14:02:20] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[14:02:20] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[14:02:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[14:02:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[14:02:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[14:02:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[14:02:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[14:02:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[14:02:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[14:02:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[14:02:20] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[14:02:20] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:05:59] [Server thread/INFO]: CJML5067 issued server command: /summon shulker ~ ~ ~1
+[14:05:59] [Server thread/INFO]: [CJML5067: Summoned new Shulker]
+[14:11:17] [Server thread/INFO]: CJML5067 issued server command: /time set day
+[14:11:17] [Server thread/INFO]: [CJML5067: Set the time to 1000]
+[14:11:50] [Server thread/INFO]: [Mythic] Reloading plugin...
+[14:11:50] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:11:50] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:11:50] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[14:11:51] [Server thread/INFO]: [MythicMobs] Loading Items...
+[14:11:51] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[14:11:51] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[14:11:51] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[14:11:51] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[14:11:51] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[14:11:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[14:11:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[14:11:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[14:11:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[14:11:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[14:11:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[14:11:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[14:11:51] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[14:11:51] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[14:11:51] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:13:06] [Server thread/INFO]: [Mythic] Reloading plugin...
+[14:13:06] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:13:06] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:13:06] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[14:13:06] [Server thread/INFO]: [MythicMobs] Loading Items...
+[14:13:06] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[14:13:06] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[14:13:06] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[14:13:06] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[14:13:06] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[14:13:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[14:13:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[14:13:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[14:13:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[14:13:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[14:13:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[14:13:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[14:13:06] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[14:13:06] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[14:13:06] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:13:40] [Server thread/INFO]: [Mythic] Reloading plugin...
+[14:13:40] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:13:40] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:13:40] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[14:13:41] [Server thread/INFO]: [MythicMobs] Loading Items...
+[14:13:41] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[14:13:41] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[14:13:41] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[14:13:41] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[14:13:41] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[14:13:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[14:13:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[14:13:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[14:13:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[14:13:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[14:13:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[14:13:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[14:13:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[14:13:41] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[14:13:41] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:15:29] [Server thread/INFO]: [Mythic] Reloading plugin...
+[14:15:29] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:15:29] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:15:29] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[14:15:29] [Server thread/INFO]: [MythicMobs] Loading Items...
+[14:15:29] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[14:15:29] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[14:15:29] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[14:15:29] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[14:15:29] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[14:15:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[14:15:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[14:15:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[14:15:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[14:15:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[14:15:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[14:15:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[14:15:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[14:15:29] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[14:15:29] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:16:59] [Server thread/INFO]: [Mythic] Reloading plugin...
+[14:16:59] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:16:59] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:16:59] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[14:17:00] [Server thread/INFO]: [MythicMobs] Loading Items...
+[14:17:00] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[14:17:00] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[14:17:00] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[14:17:00] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[14:17:00] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[14:17:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[14:17:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[14:17:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[14:17:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[14:17:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[14:17:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[14:17:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[14:17:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[14:17:00] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[14:17:00] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:19:21] [Server thread/INFO]: [Mythic] Reloading plugin...
+[14:19:21] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:19:21] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:19:21] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[14:19:21] [Server thread/INFO]: [MythicMobs] Loading Items...
+[14:19:21] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[14:19:21] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[14:19:22] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[14:19:22] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[14:19:22] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[14:19:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[14:19:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[14:19:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[14:19:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[14:19:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[14:19:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[14:19:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[14:19:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[14:19:22] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[14:19:22] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:19:39] [Server thread/INFO]: [Mythic] Reloading plugin...
+[14:19:39] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:19:39] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:19:39] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[14:19:39] [Server thread/INFO]: [MythicMobs] Loading Items...
+[14:19:39] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[14:19:39] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[14:19:39] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[14:19:39] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[14:19:39] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[14:19:39] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[14:19:39] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[14:19:39] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[14:19:39] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[14:19:39] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[14:19:39] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[14:19:39] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[14:19:39] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[14:19:39] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[14:19:39] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:21:34] [Server thread/INFO]: [Mythic] Reloading plugin...
+[14:21:34] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:21:34] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:21:34] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[14:21:35] [Server thread/INFO]: [MythicMobs] Loading Items...
+[14:21:35] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[14:21:35] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[14:21:35] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[14:21:35] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[14:21:35] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[14:21:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[14:21:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[14:21:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[14:21:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[14:21:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[14:21:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[14:21:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[14:21:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[14:21:35] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[14:21:35] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:21:40] [Server thread/INFO]: CJML5067 issued server command: /time set day
+[14:21:40] [Server thread/INFO]: [CJML5067: Set the time to 1000]
+[14:22:20] [Server thread/INFO]: [Mythic] Reloading plugin...
+[14:22:20] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:22:20] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:22:20] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[14:22:20] [Server thread/INFO]: [MythicMobs] Loading Items...
+[14:22:20] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[14:22:20] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[14:22:20] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[14:22:20] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[14:22:20] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[14:22:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[14:22:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[14:22:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[14:22:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 54 skills.
+[14:22:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[14:22:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[14:22:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[14:22:20] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[14:22:20] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[14:22:20] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:25:09] [Server thread/INFO]: Stopping the server
+[14:25:09] [Server thread/INFO]: Stopping server
+[14:25:09] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR3.1.11
+[14:25:09] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.6.2-3e052553
+[14:25:09] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[14:25:09] [Server thread/INFO]: [MythicMobs] - 
+[14:25:09] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
+[14:25:09] [Server thread/INFO]: [MythicMobs] - 
+[14:25:09] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[14:25:09] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
+[14:25:09] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
+[14:25:09] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:25:09] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:25:09] [Server thread/INFO]: [MythicMobs] - Variables saved...
+[14:25:09] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
+[14:25:09] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
+[14:25:09] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[14:25:09] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:25:09] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:25:09] [Server thread/INFO]: Saving players
+[14:25:09] [Server thread/INFO]: CJML5067 lost connection: Server closed
+[14:25:09] [Server thread/INFO]: CJML5067 left the game
+[14:25:10] [Server thread/INFO]: Saving worlds
+[14:25:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:25:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:25:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:25:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[14:25:10] [Server thread/INFO]: [ChunkHolderManager] Saved 332 block chunks, 168 entity chunks, 0 poi chunks in world 'world' in 0.31s
+[14:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:25:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:25:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[14:25:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[14:25:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[14:25:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 19 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[14:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:25:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:25:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[14:25:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[14:25:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[14:25:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[14:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:25:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:25:10] [Server thread/INFO]: Flushing Chunk IO
+[14:25:10] [Server thread/INFO]: Closing Thread Pool
+[14:25:10] [Server thread/INFO]: Closing Server

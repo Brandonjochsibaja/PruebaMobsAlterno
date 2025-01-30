@@ -5,14 +5,15 @@ Disparar:
   Skills:
     - cancelevent
     - state{mid=CatapultaSomar;s=animationLanzarBloque3} @Self
-    - message{m="interactuando"} @NearestPlayer
+    - message{m="disparando"} @NearestPlayer
     - delay 55
     - projectile{bullet=block;material=STONE;vO=1;g=0.1;v=25;syo=5;sfo=2;mr=500;int=0.01} @Forward{a=40}
 GirarDerecha:
   TargetConditions:
     - isLiving true
   Skills:
-    - shootfireball 
+    - shootfireball{}
+    - message{m="interactuando"} @NearestPlayer
     - setrotation{relative=true;pitch=0;yaw=25} @Self
 GirarIzquierda:
   Skills:

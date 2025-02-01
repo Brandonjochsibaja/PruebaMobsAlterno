@@ -7,7 +7,7 @@ Disparar:
     - state{mid=CatapultaSomar;s=animationLanzarBloque3} @Self
     - message{m="disparando"} @NearestPlayer
     - delay 55
-    - projectile{bullet=block;material=STONE;vO=1;g=0.1;v=25;syo=5;sfo=2;mr=500;int=0.01} @Forward{a=40}
+    - projectile{bullet=block;material=STONE;vO=1;g=0.17;v=22;syo=5;sfo=2;mr=500;int=0.001} @Forward{a=10}
 ContornoVariabs:
   Skills:
     - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=280}

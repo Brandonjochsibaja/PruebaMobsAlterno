@@ -77,3 +77,97 @@
 [22:59:34] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
 [22:59:35] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
 [22:59:35] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[23:13:47] [Server thread/INFO]: [Mythic] Reloading plugin...
+[23:13:47] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[23:13:47] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[23:13:47] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[23:13:47] [Server thread/INFO]: [MythicMobs] Loading Items...
+[23:13:47] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[23:13:47] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[23:13:47] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[23:13:47] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[23:13:47] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[23:13:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[23:13:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[23:13:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[23:13:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 56 skills.
+[23:13:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[23:13:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[23:13:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[23:13:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[23:13:47] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[23:13:47] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[23:14:11] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] Importing prueba.java.
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/WARN]: [ModelEngine] [A] --Error: Unknown format.
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 3 models loaded.
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:14:11] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[23:14:12] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:14:12] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[23:15:03] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing prueba.java.
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/WARN]: [ModelEngine] [A] --Error: Unknown format.
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 3 models loaded.
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:15:03] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[23:15:04] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:15:04] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[23:15:04] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:15:04] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[23:15:05] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:15:05] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[23:16:36] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Importing prueba.bbmodel.
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Box UV detected. Cube UVs might not generate correctly if Box UV is used.
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 4 models loaded.
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:16:36] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[23:16:37] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:16:37] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Generating prueba.
+[23:16:37] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:16:37] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.

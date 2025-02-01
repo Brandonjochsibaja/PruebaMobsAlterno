@@ -1,6 +1,6 @@
 CPrepareModelSomar:
   Skills:
-    - model{mid=prueba;n="Somar Catapult"}
+    - model{mid=CatapultaSomar;n="Somar Catapult"}
 Disparar:
   Skills:
     - cancelevent

@@ -8,16 +8,17 @@ Disparar:
     - message{m="disparando"} @NearestPlayer
     - delay 55
     - projectile{bullet=block;material=STONE;vO=1;g=0.17;v=21;syo=5;sfo=2;mr=500;int=0.001} @Forward{a=10}
-ContornoVariabs:
+ContornoVariabs: 
   Skills:
-    - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=4;rot=280}
-    - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=4;rot=100}
-    - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=40;r=7;rot=160}
+    - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=270}
+    - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=90}
+    - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=8;rot=200}
     - message{m="marcando - <target.var.posc>"} @LivingInCone{a=360;r=5;rot=100}
-Girar:
+Accion:
   TriggerConditions:
     - variableEquals{key=caster.posc;value="derecha"} CastInstead GirarDerecha
     - variableEquals{key=caster.posc;value="izquierda"} CastInstead GirarIzquierda
+    - variableEquals{key=caster.posc;value="atras"} CastInstead Disparar
 #    - variableEquals{key=target.posc;value="null"} true
   Skills:
     - message{m="interactuando"} @NearestPlayer

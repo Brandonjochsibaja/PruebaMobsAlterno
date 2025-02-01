@@ -22,4 +22,4 @@ SomarCatapult:
     - skill{s=CPrepareModelSomar} @Self ~onSpawn
     - skill{s=Disparar;Sync=true} ~onDamaged
     - skill{s=ContornoVariabs} ~onTimer:1
-    - skill{s=Girar} ~onInteract
+    - skill{s=Accion} ~onInteract

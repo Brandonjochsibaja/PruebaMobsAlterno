@@ -565,3 +565,48 @@
 [00:56:53] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
 [00:56:53] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
 [00:56:53] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[00:58:07] [Server thread/INFO]: Stopping the server
+[00:58:07] [Server thread/INFO]: Stopping server
+[00:58:07] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR3.1.11
+[00:58:07] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.6.2-3e052553
+[00:58:07] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[00:58:07] [Server thread/INFO]: [MythicMobs] - 
+[00:58:07] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
+[00:58:07] [Server thread/INFO]: [MythicMobs] - 
+[00:58:07] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[00:58:07] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
+[00:58:07] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
+[00:58:07] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[00:58:07] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[00:58:07] [Server thread/INFO]: [MythicMobs] - Variables saved...
+[00:58:07] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
+[00:58:07] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
+[00:58:07] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[00:58:07] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[00:58:07] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[00:58:07] [Server thread/INFO]: Saving players
+[00:58:07] [Server thread/INFO]: CJML5067 lost connection: Server closed
+[00:58:07] [Server thread/INFO]: CJML5067 left the game
+[00:58:07] [Server thread/INFO]: Saving worlds
+[00:58:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:58:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:58:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:58:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:58:07] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 123 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[00:58:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:58:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:58:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:58:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:58:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:58:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[00:58:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:58:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:58:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:58:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:58:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:58:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[00:58:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:58:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:58:07] [Server thread/INFO]: Flushing Chunk IO
+[00:58:07] [Server thread/INFO]: Closing Thread Pool
+[00:58:07] [Server thread/INFO]: Closing Server

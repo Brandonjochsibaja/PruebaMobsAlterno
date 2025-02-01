@@ -10,13 +10,14 @@ Disparar:
     - projectile{bullet=block;material=STONE;vO=1;g=0.1;v=25;syo=5;sfo=2;mr=500;int=0.01} @Forward{a=40}
 ContornoVariabs:
   Skills:
-    - setvariable{key=caster.posc;t=String;value="derecha"} @LivingInCone{a=120;r=3;rot=280}
-    - setvariable{key=caster.posc;t=String;value="izquierda"} @LivingInCone{a=120;r=3;rot=100}
+    - setvariable{key=posc;s=target;t=String;value="derecha"} @LivingInCone{a=120;r=3;rot=280}
+    - setvariable{key=posc;s=target;t=String;value="izquierda"} @LivingInCone{a=120;r=3;rot=100}
+    - message{m="marcando"} @NearestPlayer
 Girar:
   TriggerConditions:
     - variableEquals{key=caster.posc;value="derecha"} CastInstead GirarDerecha
     - variableEquals{key=caster.posc;value="izquierda"} CastInstead GirarIzquierda
-    - variableEquals{key=caster.posc;value="null"} true
+#    - variableEquals{key=target.posc;value="null"} true
   Skills:
     - message{m="interactuando"} @NearestPlayer
 GirarDerecha:

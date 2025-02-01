@@ -195,3 +195,29 @@
 [23:20:26] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
 [23:20:26] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
 [23:20:37] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:48:11] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] Importing prueba.bbmodel.
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Box UV detected. Cube UVs might not generate correctly if Box UV is used.
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 4 models loaded.
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:48:11] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] Generating prueba.
+[23:48:12] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:48:12] [Craft Scheduler Thread - 6 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.

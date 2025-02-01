@@ -8,11 +8,22 @@ Disparar:
     - message{m="disparando"} @NearestPlayer
     - delay 55
     - projectile{bullet=block;material=STONE;vO=1;g=0.1;v=25;syo=5;sfo=2;mr=500;int=0.01} @Forward{a=40}
+ContornoVars:
+  Skills:
+    - setvariable{key=caster.posc;t=String;value="derecha"} @LivingInCone{a=120;r=3;rot=280}
+    - setvariable{key=caster.posc;t=String;value="izquierda"} @LivingInCone{a=120;r=3;rot=100}
+Girar:
+  TriggerConditions:
+    - variableEquals{key=caster.posc;value="derecha"} CastInstead GirarDerecha
+    - variableEquals{key=caster.posc;value="izquierda"} CastInstead GirarIzquierda
+    - variableEquals{key=caster.posc;value="null"} true
+  Skills:
+    - message{m="interactuando"} @NearestPlayer
 GirarDerecha:
   Skills:
-    - projectile{bullet=block;material=STONE;vO=1;g=0.001;v=1;syo=5;sfo=2;mr=500;int=0.01}
     - message{m="interactuando"} @NearestPlayer
-#   - setrotation{relative=true;pitch=0;yaw=25} @Self
+    - setrotation{relative=true;pitch=0;yaw=25} @Self
 GirarIzquierda:
   Skills:
+    - message{m="interactuando"} @NearestPlayer
     - setrotation{relative=true;pitch=0;yaw=-25} @Self

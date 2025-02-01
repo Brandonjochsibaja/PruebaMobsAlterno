@@ -200,3 +200,34 @@
 [03:31:05] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
 [03:31:05] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
 [03:31:05] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[03:36:54] [Server thread/INFO]: [Mythic] Reloading plugin...
+[03:36:54] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[03:36:54] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[03:36:54] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[03:36:54] [Server thread/INFO]: [MythicMobs] Loading Items...
+[03:36:54] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[03:36:54] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[03:36:54] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[03:36:54] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[03:36:54] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[03:36:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[03:36:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[03:36:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[03:36:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 56 skills.
+[03:36:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[03:36:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[03:36:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[03:36:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[03:36:54] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[03:36:54] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[03:37:52] [Server thread/INFO]: CJML5067 issued server command: /gamemode survival
+[03:37:52] [Server thread/INFO]: [CJML5067: Set own game mode to Survival Mode]
+[03:41:32] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[03:41:32] [Server thread/INFO]: [CJML5067: Killed 148 entities]
+[03:41:36] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[03:41:36] [Server thread/INFO]: [CJML5067: Killed 338 entities]
+[03:41:40] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[03:43:03] [Server thread/INFO]: CJML5067 issued server command: /gamemode creative
+[03:43:03] [Server thread/INFO]: [CJML5067: Set own game mode to Creative Mode]
+[03:43:53] [Server thread/INFO]: CJML5067 issued server command: /time set day
+[03:43:53] [Server thread/INFO]: [CJML5067: Set the time to 1000]

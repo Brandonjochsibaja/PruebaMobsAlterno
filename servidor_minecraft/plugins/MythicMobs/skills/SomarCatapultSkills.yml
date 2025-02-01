@@ -10,8 +10,8 @@ Disparar:
     - projectile{bullet=block;material=STONE;vO=1;g=0.1;v=25;syo=5;sfo=2;mr=500;int=0.01} @Forward{a=40}
 ContornoVariabs:
   Skills:
-    - setvariable{key=posc;s=target;t=String;value="derecha"} @LivingInCone{a=120;r=5;rot=280}
-    - setvariable{key=posc;s=target;t=String;value="izquierda"} @LivingInCone{a=120;r=5;rot=100}
+    - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=280}
+    - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=100}
     - message{m="marcando - <target.var.posc>"} @LivingInCone{a=360;r=5;rot=100}
 Girar:
   TriggerConditions:

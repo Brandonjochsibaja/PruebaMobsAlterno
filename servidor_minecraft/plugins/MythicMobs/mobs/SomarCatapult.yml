@@ -22,4 +22,5 @@ SomarCatapult:
     - skill{s=CPrepareModelSomar} @Self ~onSpawn
     - skill{s=Disparar;Sync=true} ~onDamaged
     - skill{s=contornoVariabs} @LivingInCone{a=120;r=3;rot=280} ~onTimer:3
-    
+  
+

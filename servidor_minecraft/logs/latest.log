@@ -104,3 +104,7 @@
 [00:09:09] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
 [00:09:09] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
 [00:09:09] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[00:25:54] [User Authenticator #0/INFO]: UUID of player CJML5067 is e1de9dcd-3543-45db-83b2-98b702632780
+[00:25:54] [Server thread/INFO]: CJML5067 joined the game
+[00:25:54] [Server thread/INFO]: CJML5067[/127.150.122.140:58679] logged in with entity id 404 at ([world]35.85417556962519, 74.88892231821335, 18.884645590612816)
+[00:26:11] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult

@@ -225,3 +225,41 @@
 [20:03:02] [Server thread/INFO]: CJML5067 issued server command: /time set day
 [20:03:02] [Server thread/INFO]: [CJML5067: Set the time to 1000]
 [20:03:29] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[20:16:11] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone giroextracubo has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ -2.5 ]
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The bone palobrazo is translated too far away from the pivot. Maximum translation is 80x80x80. [ 0.0, -6.400000095367432, 83.52461242675781 ]
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Model contains duplicate bone names.
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Importing prueba.bbmodel.
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Box UV detected. Cube UVs might not generate correctly if Box UV is used.
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 4 models loaded.
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[20:16:11] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Generating prueba.
+[20:16:12] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
+[20:16:12] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[20:20:02] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[20:20:02] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/3481, uuid='da809b78-3910-4d5e-8bbe-d819b66b5f35', l='ServerLevel[world]', x=154.67, y=65.00, z=-31.71, cpos=[9, -2], tl=20585, v=true] died: Catapulta Somar was killed
+[20:20:02] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/3695, uuid='273ca397-e6df-4498-8eca-48a59be0a01f', l='ServerLevel[world]', x=157.43, y=73.00, z=-28.64, cpos=[9, -2], tl=19866, v=true] died: Catapulta Somar was killed
+[20:20:02] [Server thread/INFO]: [CJML5067: Killed 128 entities]
+[20:20:05] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[20:20:05] [Server thread/INFO]: [CJML5067: Killed 214 entities]
+[20:20:08] [Server thread/INFO]: CJML5067 issued server command: /time set day
+[20:20:08] [Server thread/INFO]: [CJML5067: Set the time to 1000]
+[20:20:12] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult

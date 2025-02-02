@@ -37,6 +37,7 @@ SomarSoldier:
     - atacker
     - monsters
     - players
+    - specificfaction{f=CatapultaSomar}
   AIgoalSelectors:
     - 0 clear
     - 1 meleeatack

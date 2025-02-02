@@ -1,7 +1,7 @@
 SomarCatapult:
   Type: Giant
   Display: 'Catapulta Somar'
-  Faction: Somar
+  Faction: CatapultaSomar
   AITargetSelectors:
     - clear
     - atacker

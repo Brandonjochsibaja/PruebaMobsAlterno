@@ -1,47 +1,117 @@
-[00:05:46] [Server thread/INFO]: CJML5067 issued server command: /meg select 00fc033d-f2b6-4582-9707-66a90a99dacd
-[00:06:16] [Server thread/INFO]: CJML5067 issued server command: /meg state list catapultasomar
-[00:06:32] [Server thread/INFO]: Stopping the server
-[00:06:32] [Server thread/INFO]: Stopping server
-[00:06:32] [Server thread/INFO]: [ModelEngine] Disabling ModelEngine vR3.1.11
-[00:06:32] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.6.2-3e052553
-[00:06:32] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[00:06:32] [Server thread/INFO]: [MythicMobs] - 
-[00:06:32] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
-[00:06:32] [Server thread/INFO]: [MythicMobs] - 
-[00:06:32] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[00:06:32] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
-[00:06:32] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
-[00:06:32] [Server thread/INFO]: [MythicMobs] Saving plugin data...
-[00:06:32] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
-[00:06:32] [Server thread/INFO]: [MythicMobs] - Variables saved...
-[00:06:32] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
-[00:06:32] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
-[00:06:32] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
-[00:06:32] [Server thread/INFO]: [MythicMobs] Saving plugin data...
-[00:06:32] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
-[00:06:32] [Server thread/INFO]: Saving players
-[00:06:32] [Server thread/INFO]: CJML5067 lost connection: Server closed
-[00:06:32] [Server thread/INFO]: CJML5067 left the game
-[00:06:32] [Server thread/INFO]: Saving worlds
-[00:06:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:06:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[00:06:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[00:06:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[00:06:32] [Server thread/INFO]: [ChunkHolderManager] Saved 41 block chunks, 133 entity chunks, 0 poi chunks in world 'world' in 0.07s
-[00:06:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:06:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:06:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[00:06:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[00:06:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[00:06:32] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[00:06:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:06:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:06:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[00:06:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[00:06:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[00:06:32] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[00:06:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:06:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:06:32] [Server thread/INFO]: Flushing Chunk IO
-[00:06:32] [Server thread/INFO]: Closing Thread Pool
-[00:06:32] [Server thread/INFO]: Closing Server
+[19:40:23] [ServerMain/WARN]: resource-pack-id missing, using default of 1c2f43ba-1197-3d20-b3dc-63c94cd9359f
+[19:40:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:40:25] [ServerMain/INFO]: Loaded 1174 recipes
+[19:40:25] [ServerMain/INFO]: Loaded 1271 advancements
+[19:40:26] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[19:40:26] [Server thread/INFO]: Loading properties
+[19:40:26] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[19:40:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:40:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:40:27] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[19:40:27] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[19:40:27] [Server thread/INFO]: Default game type: SURVIVAL
+[19:40:27] [Server thread/INFO]: Generating keypair
+[19:40:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:40:27] [Server thread/INFO]: Using epoll channel type
+[19:40:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:40:28] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:40:28] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.6.2-3e052553
+[19:40:28] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[19:40:28] [Server thread/INFO]: [MythicMobs] §4M§6y§6t§6h§2i§2c§2 §3E§3n§1a§1b§1l§5e§5d§4!
+[19:40:28] [Server thread/INFO]: [ModelEngine] Loading server plugin ModelEngine vR3.1.11
+[19:40:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:40:28] [Server thread/INFO]: Preparing level "world"
+[19:40:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:40:29] [Server thread/INFO]: Time elapsed: 315 ms
+[19:40:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:40:29] [Server thread/INFO]: Time elapsed: 164 ms
+[19:40:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:40:29] [Server thread/INFO]: Time elapsed: 54 ms
+[19:40:29] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.6.2-3e052553
+[19:40:30] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.20.4)...
+[19:40:30] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[19:40:33] [Server thread/INFO]: [MythicMobs] Base directory /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/data
+[19:40:33] [Server thread/INFO]: [MythicMobs] Module directory /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/data/worlds
+[19:40:35] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[19:40:35] [Server thread/INFO]: [MythicMobs] Loading Items...
+[19:40:35] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[19:40:35] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[19:40:36] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[19:40:36] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[19:40:36] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[19:40:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[19:40:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[19:40:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[19:40:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 56 skills.
+[19:40:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[19:40:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[19:40:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[19:40:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[19:40:36] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[19:40:36] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[19:40:36] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.6.2 ( build 3e052553 ) has been successfully loaded!
+[19:40:36] [Server thread/INFO]: [ModelEngine] Enabling ModelEngine vR3.1.11
+[19:40:36] [Server thread/INFO]: [MythicMobs] Model Engine Compatibility Loaded.
+[19:40:36] [Server thread/INFO]: [ModelEngine] [S] Compatibility applied: MythicMobs
+[19:40:36] [Server thread/INFO]: [ModelEngine] [S] bStats enabled
+[19:40:36] [Server thread/INFO]: Running delayed init tasks
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[19:40:36] [Server thread/INFO]: Done (10.250s)! For help, type "help"
+[19:40:36] [Server thread/INFO]: Timings Reset
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Importing prueba.bbmodel.
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Box UV detected. Cube UVs might not generate correctly if Box UV is used.
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:40:36] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[19:40:37] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:40:37] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[19:40:37] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:40:38] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[19:40:38] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:40:38] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Generating prueba.
+[19:40:39] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:40:39] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[19:43:08] [User Authenticator #0/INFO]: UUID of player CJML5067 is e1de9dcd-3543-45db-83b2-98b702632780
+[19:43:09] [Server thread/INFO]: CJML5067 joined the game
+[19:43:09] [Server thread/INFO]: CJML5067[/127.150.122.140:43281] logged in with entity id 134 at ([world]132.31403072503358, 65.63251720757705, -29.271037265356423)
+[19:43:24] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[19:43:38] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing prueba.bbmodel.
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Box UV detected. Cube UVs might not generate correctly if Box UV is used.
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 4 models loaded.
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:43:38] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[19:43:39] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:43:39] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Generating prueba.
+[19:43:39] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:43:39] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[19:47:12] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[19:48:13] [Server thread/INFO]: CJML5067 issued server command: /time set day
+[19:48:13] [Server thread/INFO]: [CJML5067: Set the time to 1000]

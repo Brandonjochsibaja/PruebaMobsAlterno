@@ -115,3 +115,57 @@
 [19:47:12] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
 [19:48:13] [Server thread/INFO]: CJML5067 issued server command: /time set day
 [19:48:13] [Server thread/INFO]: [CJML5067: Set the time to 1000]
+[19:54:27] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing prueba.bbmodel.
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Box UV detected. Cube UVs might not generate correctly if Box UV is used.
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 4 models loaded.
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:54:27] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating prueba.
+[19:54:28] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:54:28] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[19:56:45] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[20:00:10] [Server thread/INFO]: [Mythic] Reloading plugin...
+[20:00:10] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[20:00:10] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[20:00:10] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[20:00:11] [Server thread/INFO]: [MythicMobs] Loading Items...
+[20:00:11] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[20:00:11] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[20:00:11] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Condition HasItem
+[20:00:11] [Server thread/WARN]: [MythicMobs] --| File: Unknown
+[20:00:11] [Server thread/WARN]: [MythicMobs] --| Error Message: 'AXE' is not a valid material.
+[20:00:11] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: hasItem{item=AXE}
+[20:00:11] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[20:00:11] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[20:00:11] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[20:00:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[20:00:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[20:00:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[20:00:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 56 skills.
+[20:00:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[20:00:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[20:00:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[20:00:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[20:00:11] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[20:00:11] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[20:00:11] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Drop AXE
+[20:00:11] [Server thread/WARN]: [MythicMobs] --| File: 
+[20:00:11] [Server thread/WARN]: [MythicMobs] --| Error Message: Drop type not found.

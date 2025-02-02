@@ -9,7 +9,7 @@ Disparar:
     - state{mid=CatapultaSomar;s=animationLanzarBloque3} @Self
     - message{m="disparando"} @NearestPlayer
     - delay 55
-    - projectile{bullet=block;material=STONE;vO=1;g=0.17;v=21;syo=11;sfo=2.4;mr=500;int=0.001} @Forward{a=10}
+    - projectile{bullet=block;material=STONE;vO=1.3;g=0.17;v=21;syo=11;sfo=1.8;mr=500;int=0.001} @Forward{a=10}
 ContornoVariabs: 
   TriggerConditions:
     - distance{d=>20} cast variableunset{var=target.posc}
@@ -17,7 +17,7 @@ ContornoVariabs:
     - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=270}
     - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=90}
     - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=8;rot=200}
-    - message{m="marcando - <target.var.posc>"} @LivingInCone{a=360;r=5;rot=100}
+    - message{m="marcando - <target.var.posc>"} @NearestPlayer
 Accion:
   TriggerConditions:
     - variableEquals{key=caster.posc;value="derecha"} CastInstead GirarDerecha

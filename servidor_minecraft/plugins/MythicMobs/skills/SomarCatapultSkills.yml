@@ -2,8 +2,8 @@ CPrepareModelSomar:
   Skills:
     - model{mid=CatapultaSomar;n="Somar Catapult"}
 Disparar:
-  Conditions:
-    - hasItem{item=AXE} false
+  TriggerConditions:
+    - hasItem{item=Iron_Axe} false
   Skills:
     - cancelevent
     - state{mid=CatapultaSomar;s=animationLanzarBloque3} @Self

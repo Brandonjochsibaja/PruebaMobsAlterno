@@ -10049,3 +10049,63 @@
 [19:57:15] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
 [19:57:21] [Server thread/INFO]: CJML5067 issued server command: /time set day
 [19:57:21] [Server thread/INFO]: [CJML5067: Set the time to 1000]
+[19:59:47] [Server thread/INFO]: [Mythic] Reloading plugin...
+[19:59:47] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[19:59:47] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[19:59:47] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[19:59:47] [Server thread/INFO]: [MythicMobs] Loading Items...
+[19:59:47] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[19:59:47] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[19:59:47] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[19:59:47] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[19:59:47] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[19:59:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[19:59:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[19:59:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[19:59:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 56 skills.
+[19:59:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[19:59:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[19:59:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[19:59:47] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[19:59:47] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[19:59:47] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[20:01:31] [Server thread/INFO]: CJML5067 issued server command: /meg summon catapultasomar_grande
+[20:01:31] [Craft Scheduler Thread - 13 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[20:01:31] [Craft Scheduler Thread - 13 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[20:01:31] [Craft Scheduler Thread - 13 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[20:01:31] [Craft Scheduler Thread - 13 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="izquierda"}
+[20:01:31] [Craft Scheduler Thread - 16 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[20:01:31] [Craft Scheduler Thread - 16 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[20:01:31] [Craft Scheduler Thread - 16 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[20:01:31] [Craft Scheduler Thread - 16 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="izquierda"}
+[20:01:31] [Craft Scheduler Thread - 11 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[20:01:31] [Craft Scheduler Thread - 11 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[20:01:31] [Craft Scheduler Thread - 11 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[20:01:31] [Craft Scheduler Thread - 11 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="izquierda"}
+[20:01:58] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[20:01:58] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/6737, uuid='c460fb4f-87a3-43ff-8203-1785ca1afb53', l='ServerLevel[world]', x=28.74, y=65.00, z=-19.39, cpos=[1, -2], tl=5668, v=true] died: Catapulta Somar was killed
+[20:01:59] [Server thread/INFO]: [CJML5067: Killed 130 entities]
+[20:02:01] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[20:02:01] [Server thread/INFO]: [CJML5067: Killed 184 entities]
+[20:02:05] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[20:02:37] [Server thread/INFO]: [Mythic] Reloading plugin...
+[20:02:37] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[20:02:37] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[20:02:37] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[20:02:38] [Server thread/INFO]: [MythicMobs] Loading Items...
+[20:02:38] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[20:02:38] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[20:02:38] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[20:02:38] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[20:02:38] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[20:02:38] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[20:02:38] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[20:02:38] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[20:02:38] [Server thread/INFO]: [MythicMobs] ✓ Loaded 57 skills.
+[20:02:38] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[20:02:38] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[20:02:38] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[20:02:38] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[20:02:38] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[20:02:38] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[20:02:54] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult

@@ -1,6 +1,6 @@
 CPrepareModelSomar:
   Skills:
-    - model{mid=CatapultaSomar;n="Somar Catapult"}
+    - model{mid=CatapultaSomar_Grande;n="Somar Catapult"}
 Disparar:
   Cooldown: 20
   TriggerConditions:
@@ -30,8 +30,11 @@ Accion:
 GirarDerecha:
   Skills:
     - message{m="interactuandoD"} @NearestPlayer
-    - setrotation{relative=true;pitch=0;yaw=25} @Self
+    - setrotation{relative=true;pitch=0;yaw=15} @Self
 GirarIzquierda:
   Skills:
     - message{m="interactuandoI"} @NearestPlayer
-    - setrotation{relative=true;pitch=0;yaw=-25} @Self
+    - setrotation{relative=true;pitch=0;yaw=-15} @Self
+Montar:
+  Skills:
+    - mountmodel{}

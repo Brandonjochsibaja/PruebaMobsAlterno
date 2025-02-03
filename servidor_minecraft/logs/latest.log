@@ -6546,3 +6546,362 @@
 [19:16:48] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
 [19:16:48] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
 [19:16:48] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:02] [Craft Scheduler Thread - 0 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:02] [Craft Scheduler Thread - 0 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:02] [Craft Scheduler Thread - 0 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:02] [Craft Scheduler Thread - 0 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:02] [Craft Scheduler Thread - 0 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:02] [Craft Scheduler Thread - 0 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:02] [Craft Scheduler Thread - 0 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:02] [Craft Scheduler Thread - 0 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:02] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:02] [Craft Scheduler Thread - 0 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:02] [Craft Scheduler Thread - 0 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:02] [Craft Scheduler Thread - 0 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:02] [Craft Scheduler Thread - 0 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:02] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:02] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:02] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:02] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:02] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:02] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:02] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:02] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:02] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:02] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:02] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:02] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:02] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:02] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:02] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:02] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:03] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:04] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:04] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:04] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:04] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:04] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:04] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:04] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:04] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:04] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:23:04] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:23:04] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:23:04] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:23:19] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone giroextracubo has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ -2.5 ]
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The bone palobrazo is translated too far away from the pivot. Maximum translation is 80x80x80. [ 0.0, -6.400000095367432, 83.52461242675781 ]
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Model contains duplicate bone names.
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar_Grande.bbmodel.
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone giroextracubo has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ -2.5 ]
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The bone traseros is translated too far away from the pivot. Maximum translation is 80x80x80. [ 0.0, 5.085916042327881, 103.91981506347656 ]
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Model contains duplicate bone names.
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 4 models loaded.
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar_grande.
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:23:19] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[19:23:20] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:23:20] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[19:24:20] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:20] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:20] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:20] [Craft Scheduler Thread - 2 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:20] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:20] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:20] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:20] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:20] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:20] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:20] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:20] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:20] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:20] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:20] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:20] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:20] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:20] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:20] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:20] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:20] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:20] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:20] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:20] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:21] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 7 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:22] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:22] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:22] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:22] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:23] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:23] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:23] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:23] [Craft Scheduler Thread - 6 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}
+[19:24:23] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[19:24:23] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[19:24:23] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[19:24:23] [Craft Scheduler Thread - 4 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="derecha"}

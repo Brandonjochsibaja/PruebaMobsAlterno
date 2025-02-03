@@ -39,4 +39,5 @@ GirarIzquierda:
     - setrotation{relative=true;pitch=0;yaw=-15} @Self
 Montar:
   Skills:
-    - mountmodel{mid=CatapultaSomar_Grande} @Self
+    - mountmodel{mid=CatapultaSomar_Grande;driver=false;p=p_mount} @Trigger
+    - message{m="Montando"} @Trigger

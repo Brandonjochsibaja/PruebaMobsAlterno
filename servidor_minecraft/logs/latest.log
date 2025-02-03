@@ -9988,3 +9988,64 @@
 [19:46:06] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
 [19:46:07] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
 [19:46:07] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[19:50:06] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone giroextracubo has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ -2.5 ]
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The bone palobrazo is translated too far away from the pivot. Maximum translation is 80x80x80. [ 0.0, -6.400000095367432, 83.52461242675781 ]
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Model contains duplicate bone names.
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar_Grande.bbmodel.
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Model contains duplicate bone names.
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 4 models loaded.
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar_grande.
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:50:06] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[19:50:07] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:50:07] [Craft Scheduler Thread - 13 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[19:52:12] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone giroextracubo has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ -2.5 ]
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The bone palobrazo is translated too far away from the pivot. Maximum translation is 80x80x80. [ 0.0, -6.400000095367432, 83.52461242675781 ]
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Model contains duplicate bone names.
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar_Grande.bbmodel.
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: Model contains duplicate bone names.
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 4 models loaded.
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar_grande.
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:52:13] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[19:52:14] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:52:14] [Craft Scheduler Thread - 5 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[19:57:15] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[19:57:21] [Server thread/INFO]: CJML5067 issued server command: /time set day
+[19:57:21] [Server thread/INFO]: [CJML5067: Set the time to 1000]

@@ -1,6 +1,6 @@
 CPrepareModelSomar:
   Skills:
-    - model{mid=CatapultaSomar_Grande;n="Somar Catapult";}
+    - model{mid=CatapultaSomar_Grande;n="Somar Catapult";ride=true;driver=true}
 Disparar:
   Cooldown: 20
   TriggerConditions:
@@ -16,8 +16,8 @@ ContornoVariabs:
     - faction{f=Somar} true
   Skills:
     - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=270}
-    - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=85}
-    - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=15;rot=200}
+    - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=60}
+    - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=15;rot=190}
     - message{m="marcando - <target.var.posc>"} @World
 Accion:
   TriggerConditions:
@@ -39,4 +39,4 @@ GirarIzquierda:
     - setrotation{relative=true;pitch=0;yaw=-15} @Self
 Montar:
   Skills:
-    - mountmodel{}
+    - mountmodel{mid=CatapultaSomar_Grande} @Self

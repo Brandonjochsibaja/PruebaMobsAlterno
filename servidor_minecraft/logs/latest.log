@@ -170,3 +170,193 @@
 [14:44:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
 [14:44:55] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
 [14:44:55] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:56:54] [Server thread/INFO]: [Mythic] Reloading plugin...
+[14:56:54] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:56:54] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:56:54] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[14:56:54] [Server thread/INFO]: [MythicMobs] Loading Items...
+[14:56:54] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[14:56:54] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[14:56:54] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[14:56:54] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[14:56:54] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[14:56:54] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Skill: walkAnimation1 | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarSoldierSkills.yml
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill walkAnimation2
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=walkAnimation2}
+[14:56:54] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Mob: SomarSoldier | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/mobs/ExampleMobs.yml
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill DamagedAnimation
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=DamagedAnimation;sync=true}
+[14:56:54] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Mob: SomarSoldier | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/mobs/ExampleMobs.yml
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill MuerteExtAnimation
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=MuerteExtAnimation;sync=true}
+[14:56:54] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.1f999fae-cf38-460c-9319-fb57cf0cf1e2 | File: Unknown
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea1
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea1}
+[14:56:54] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.bba255c6-7e8b-4222-8234-d4197b842b98 | File: Unknown
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea2
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea2}
+[14:56:54] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.e84ae3d1-2f56-4689-b5b8-378eb14219fc | File: Unknown
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea3
+[14:56:54] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea3}
+[14:56:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[14:56:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[14:56:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[14:56:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 49 skills.
+[14:56:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[14:56:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[14:56:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[14:56:54] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[14:56:54] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[14:56:54] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:57:03] [User Authenticator #0/INFO]: UUID of player CJML5067 is 05d89580-8d76-339c-aefb-9e7196b6ba3c
+[14:57:04] [Server thread/INFO]: CJML5067 joined the game
+[14:57:04] [Server thread/INFO]: CJML5067[/127.150.122.140:33341] logged in with entity id 16 at ([world_the_end]1.328201951990994, 65.92333181363209, -14.387472145163208)
+[14:57:13] [Server thread/INFO]: CJML5067 issued server command: /kill @e
+[14:57:13] [Server thread/INFO]: CJML5067 was killed
+[14:57:13] [Server thread/INFO]: [CJML5067: Killed 71 entities]
+[14:57:22] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarSoldier 20
+[14:57:30] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/281, uuid='889e40ad-2208-4148-ba63-e63db13beebd', l='ServerLevel[world]', x=48.52, y=65.00, z=20.43, cpos=[3, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/280, uuid='65e48147-a9bd-4d7b-bfc6-c2bf9ece4f37', l='ServerLevel[world]', x=45.00, y=65.00, z=23.28, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/279, uuid='36753bd2-ca7f-4b4e-b35f-12827bcc6256', l='ServerLevel[world]', x=45.63, y=65.00, z=20.34, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/278, uuid='61760362-ab2c-4b62-8eff-4f3c6d964fde', l='ServerLevel[world]', x=47.86, y=65.00, z=17.45, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/282, uuid='e05c89ed-3eb0-412a-83fa-412e098dc60d', l='ServerLevel[world]', x=47.13, y=65.00, z=19.39, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/283, uuid='d69ee00c-6b58-4ab6-a096-b6843df171ca', l='ServerLevel[world]', x=42.79, y=65.00, z=17.48, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/296, uuid='fa086d9b-3cb1-4c78-ad73-5b402e832cb6', l='ServerLevel[world]', x=37.27, y=65.00, z=20.47, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/295, uuid='19c73c20-6213-45f8-8ac9-f9c6b47b4d56', l='ServerLevel[world]', x=32.44, y=65.00, z=15.34, cpos=[2, 0], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/294, uuid='6ce20414-f7b4-4130-b64f-4e0be6ab5893', l='ServerLevel[world]', x=31.40, y=65.00, z=21.71, cpos=[1, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/293, uuid='17105029-9ab6-4827-a0f2-836c4b4c6e25', l='ServerLevel[world]', x=37.47, y=65.00, z=19.38, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/284, uuid='7bda7158-e168-478b-ad23-0bbd4646ec30', l='ServerLevel[world]', x=35.65, y=65.00, z=18.43, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/289, uuid='250328e9-e1c1-470b-8cb0-ea4b9f5a5046', l='ServerLevel[world]', x=44.01, y=65.00, z=18.30, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/286, uuid='14e64d3e-3072-41fd-94bd-19055d4de54a', l='ServerLevel[world]', x=44.51, y=65.00, z=19.56, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/287, uuid='2a9ec54c-a16f-4fbe-901f-ec5efc8d587d', l='ServerLevel[world]', x=45.56, y=65.00, z=18.34, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/288, uuid='9ceac8c8-5d8d-418d-b67d-dabfac2b3077', l='ServerLevel[world]', x=45.25, y=65.00, z=21.80, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/292, uuid='91845983-ec69-4b11-abf1-248ee9d664b8', l='ServerLevel[world]', x=35.65, y=65.00, z=20.01, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/291, uuid='46b7294b-d2c9-42e3-b5b7-9ee99a0c38bf', l='ServerLevel[world]', x=42.88, y=65.00, z=18.97, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/290, uuid='08a115a8-1ba3-4ac5-a748-b6d4e0f69da7', l='ServerLevel[world]', x=43.28, y=65.00, z=29.61, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/285, uuid='dbf0204a-f99e-47f1-a4d4-9024dbffc146', l='ServerLevel[world]', x=33.62, y=65.00, z=20.90, cpos=[2, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/277, uuid='1b723b62-e184-40ff-bb2c-628b0a2291f5', l='ServerLevel[world]', x=51.67, y=65.00, z=20.46, cpos=[3, 1], tl=167, v=true] died: Soldado Somar was killed
+[14:57:30] [Server thread/INFO]: [CJML5067: Killed 178 entities]
+[14:57:32] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[14:57:32] [Server thread/INFO]: [CJML5067: Killed 160 entities]
+[14:57:40] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[14:59:48] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[14:59:48] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/1354, uuid='75c3a854-e620-42ce-aded-6ba0061e892f', l='ServerLevel[world]', x=50.19, y=65.00, z=-0.93, cpos=[3, -1], tl=2566, v=true] died: Catapulta Somar was killed
+[14:59:48] [Server thread/INFO]: [CJML5067: Killed 160 entities]
+[14:59:49] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[14:59:49] [Server thread/INFO]: [CJML5067: Killed 158 entities]
+[14:59:52] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[15:01:41] [Server thread/INFO]: [Mythic] Reloading plugin...
+[15:01:41] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[15:01:41] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[15:01:41] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[15:01:41] [Server thread/INFO]: [MythicMobs] Loading Items...
+[15:01:41] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[15:01:41] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[15:01:41] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[15:01:41] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[15:01:41] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[15:01:41] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Skill: walkAnimation1 | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarSoldierSkills.yml
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill walkAnimation2
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=walkAnimation2}
+[15:01:41] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Mob: SomarSoldier | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/mobs/ExampleMobs.yml
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill DamagedAnimation
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=DamagedAnimation;sync=true}
+[15:01:41] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Mob: SomarSoldier | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/mobs/ExampleMobs.yml
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill MuerteExtAnimation
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=MuerteExtAnimation;sync=true}
+[15:01:41] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.5774b5da-8fdd-4bfc-bb74-0752ef4f2be4 | File: Unknown
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea1
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea1}
+[15:01:41] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.09f70077-658e-4edd-b202-ae2c427452c2 | File: Unknown
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea2
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea2}
+[15:01:41] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.3405f01d-3c72-4c3c-ba5f-11ff17d6b4d1 | File: Unknown
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea3
+[15:01:41] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea3}
+[15:01:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[15:01:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[15:01:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[15:01:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 49 skills.
+[15:01:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[15:01:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[15:01:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[15:01:41] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[15:01:41] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[15:01:41] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[15:02:35] [Server thread/INFO]: [Mythic] Reloading plugin...
+[15:02:35] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[15:02:35] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[15:02:35] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[15:02:35] [Server thread/INFO]: [MythicMobs] Loading Items...
+[15:02:35] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[15:02:35] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[15:02:35] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[15:02:35] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[15:02:35] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[15:02:35] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic randomskill
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Skill: AtaqueUnico | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarSoldierSkills.yml
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueBase2
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: randomskill{s=AtaqueBase,AtaqueBase2,Estocada}
+[15:02:35] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic randomskill
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Skill: AtaqueUnico | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarSoldierSkills.yml
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill Estocada
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: randomskill{s=AtaqueBase,AtaqueBase2,Estocada}
+[15:02:35] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Mob: SomarSoldier | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/mobs/ExampleMobs.yml
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill DamagedAnimation
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=DamagedAnimation;sync=true}
+[15:02:35] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.72af3b26-0053-472c-97a6-29beab9193ff | File: Unknown
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea1
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea1}
+[15:02:35] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.4e52c191-f9e9-4447-bda5-3e7a3aec0003 | File: Unknown
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea2
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea2}
+[15:02:35] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.84513874-69b7-4b95-91c5-73d5a6cafcdc | File: Unknown
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea3
+[15:02:35] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea3}
+[15:02:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[15:02:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[15:02:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[15:02:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 49 skills.
+[15:02:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[15:02:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[15:02:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[15:02:35] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[15:02:35] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[15:02:35] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[15:03:09] [Server thread/INFO]: [Mythic] Reloading plugin...
+[15:03:09] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[15:03:09] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[15:03:09] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[15:03:09] [Server thread/INFO]: [MythicMobs] Loading Items...
+[15:03:09] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[15:03:09] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[15:03:09] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[15:03:09] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[15:03:09] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[15:03:09] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[15:03:09] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[15:03:09] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[15:03:09] [Server thread/INFO]: [MythicMobs] ✓ Loaded 58 skills.
+[15:03:09] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[15:03:09] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[15:03:09] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[15:03:09] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[15:03:09] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[15:03:09] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!

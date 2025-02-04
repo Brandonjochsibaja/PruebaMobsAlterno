@@ -870,3 +870,16 @@
 [00:25:52] [Server thread/INFO]: [CJML5067: Set the weather to clear]
 [00:26:14] [Server thread/INFO]: CJML5067 issued server command: /give @s minecraft:command_block
 [00:26:14] [Server thread/INFO]: [CJML5067: Gave 1 [Command Block] to CJML5067]
+[00:26:22] [Server thread/INFO]: CJML5067 issued server command: /gamemode creative
+[00:26:22] [Server thread/INFO]: [CJML5067: Set own game mode to Creative Mode]
+[00:31:45] [Server thread/INFO]: CJML5067 lost connection: Disconnected
+[00:31:45] [Server thread/INFO]: CJML5067 left the game
+[00:32:59] [User Authenticator #1/INFO]: UUID of player Seraphimhead is 3b68255a-a557-4c7b-ba67-1e0a8ecbfbc9
+[00:33:00] [Server thread/INFO]: Seraphimhead joined the game
+[00:33:00] [Server thread/INFO]: Seraphimhead[/127.60.146.204:47999] logged in with entity id 4405 at ([world]14.5, 65.0, 26.5)
+[00:33:19] [User Authenticator #1/INFO]: UUID of player CJML5067 is e1de9dcd-3543-45db-83b2-98b702632780
+[00:33:20] [Server thread/INFO]: CJML5067 joined the game
+[00:33:20] [Server thread/INFO]: CJML5067[/127.150.122.140:56587] logged in with entity id 4487 at ([world]52.601942857746586, 65.0, -7.188136413413437)
+[00:33:45] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[00:35:46] [Server thread/INFO]: CJML5067 issued server command: /time set day
+[00:35:46] [Server thread/INFO]: [CJML5067: Set the time to 1000]

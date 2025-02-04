@@ -43,7 +43,7 @@ explotar:
 montar:
   Skills:
     - cancelevent
-    - mountmodel{d=false;pbone=p_asiento} @Trigger
+    - mountme{mid=CatapultaSomar} @NearestPlayer
     - message{m="Montando"} @Trigger
 prueba:
   Conditions:

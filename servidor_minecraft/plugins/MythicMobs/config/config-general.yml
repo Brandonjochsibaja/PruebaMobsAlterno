@@ -16,9 +16,9 @@ Configuration:
   General:
     AllowMetrics: true
     CheckForUpdates: true
-    DebugLevel: 0
-    DebugMode: false
-    DebugSpawners: false
+    DebugLevel: 3
+    DebugMode: true
+    DebugSpawners: true
     ErrorLogging: true
 
     # Tries to match mobs by their display name and turn them into Mythic Mobs when

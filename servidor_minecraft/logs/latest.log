@@ -1067,3 +1067,44 @@
 [23:38:25] [Craft Scheduler Thread - 33 - ModelEngine/INFO]: [ModelEngine] [A] 
 [23:38:25] [Craft Scheduler Thread - 33 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
 [23:40:28] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:42:23] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] 3 models loaded.
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:42:23] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[23:42:24] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:42:24] [Craft Scheduler Thread - 37 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[23:50:20] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:50:34] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:50:34] [Server thread/INFO]: Named entity EntityHorse['Catapulta Somar'/21604, uuid='e23b62d6-76a9-45df-bae9-b6b38fc86297', l='ServerLevel[world]', x=58.94, y=63.00, z=48.74, cpos=[3, 3], tl=23429, v=true] died: Catapulta Somar was killed
+[23:50:34] [Server thread/INFO]: Named entity EntityHorse['Catapulta Somar'/22967, uuid='164bb91e-d404-44df-8d4d-0b7bfd7f997c', l='ServerLevel[world]', x=61.85, y=65.00, z=22.80, cpos=[3, 1], tl=12113, v=true] died: Catapulta Somar was killed
+[23:50:34] [Server thread/INFO]: Named entity EntityHorse['Catapulta Somar'/24284, uuid='e44d7c0e-f83b-48a4-8975-c27ef29f5321', l='ServerLevel[world]', x=55.57, y=65.00, z=17.68, cpos=[3, 1], tl=263, v=true] died: Catapulta Somar was killed
+[23:50:34] [Server thread/INFO]: [CJML5067: Killed 132 entities]
+[23:50:36] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:50:36] [Server thread/INFO]: [CJML5067: Killed 159 entities]
+[23:50:39] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:50:44] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:50:44] [Server thread/INFO]: Named entity EntityHorse['Catapulta Somar'/24844, uuid='a9eac2c1-638e-4417-a9ee-ca7e90bebe7f', l='ServerLevel[world]', x=52.06, y=65.00, z=14.13, cpos=[3, 0], tl=110, v=true] died: Catapulta Somar was killed
+[23:50:44] [Server thread/INFO]: [CJML5067: Killed 154 entities]
+[23:50:46] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:50:46] [Server thread/INFO]: [CJML5067: Killed 172 entities]
+[23:51:04] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:51:10] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:51:10] [Server thread/INFO]: Named entity EntityHorse['Catapulta Somar'/25424, uuid='91aff7ee-bda9-4271-b6af-127ba4b14101', l='ServerLevel[world]', x=48.49, y=65.00, z=8.04, cpos=[3, 0], tl=105, v=true] died: Catapulta Somar was killed
+[23:51:10] [Server thread/INFO]: [CJML5067: Killed 161 entities]
+[23:51:13] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:51:13] [Server thread/INFO]: [CJML5067: Killed 182 entities]

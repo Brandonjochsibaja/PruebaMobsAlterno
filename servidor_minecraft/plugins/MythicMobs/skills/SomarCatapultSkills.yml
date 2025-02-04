@@ -46,5 +46,7 @@ montar:
     - mountmodel{d=false;pbone=p_asiento} @Trigger
     - message{m="Montando"} @Trigger
 prueba:
+  Conditions:
+  - hasPassenger true
   Skills:
-  -msg{m="montado"}
+    - msg{m="montado"} @NearestPlayer

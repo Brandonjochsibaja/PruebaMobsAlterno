@@ -16,7 +16,8 @@ ContornoVariabs:
   Skills:
     - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=270}
     - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=60}
-    - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=15;rot=190}
+    - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=12;rot=190}
+    - setvariable{var=target.posc;t=string;value="null"} @EIR{r=15to18}
     - message{m="marcando - <target.var.posc>"} @World
 Accion:
   TriggerConditions:
@@ -39,7 +40,7 @@ GirarIzquierda:
 explotar:
   Skills:
     - explosion{fire=true;y=10;bd=true} @Origin
-Montar:
+montar:
   Skills:
-    - mountmodel{} @Trigger
+    - mountmodel{d=false;pbone=asiento} @Trigger
     - message{m="Montando"} @Trigger

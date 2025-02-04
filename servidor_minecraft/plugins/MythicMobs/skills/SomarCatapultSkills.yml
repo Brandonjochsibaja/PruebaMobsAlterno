@@ -1,8 +1,7 @@
 CPrepareModelSomar:
   Skills:
-    - model{mid=CatapultaSomar_Grande;n="Somar Catapult";ride=true;driver=true}
+    - model{mid=CatapultaSomar;n="Somar Catapult";ride=true;driver=true}
 Disparar:
-  Cooldown: 20
   TriggerConditions:
     - itemissimilar{item=iron_axe;slot=hand} false
   Skills:

@@ -678,3 +678,27 @@
 [22:50:30] [Server thread/INFO]: CJML5067 issued server command: /gamemode creative
 [22:50:30] [Server thread/INFO]: [CJML5067: Set own game mode to Creative Mode]
 [22:50:46] [Server thread/INFO]: CJML5067 issued server command: /meg summon catapultasomar
+[22:52:35] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[22:52:40] [Server thread/INFO]: CJML5067 issued server command: /gamemode survival
+[22:52:40] [Server thread/INFO]: [CJML5067: Set own game mode to Survival Mode]
+[22:53:45] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] 
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] 
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] 
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] 
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] 
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] 3 models loaded.
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] 
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] 
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] 
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] 
+[22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[22:53:46] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] 
+[22:53:46] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.

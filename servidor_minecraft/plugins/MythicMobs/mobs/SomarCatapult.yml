@@ -1,5 +1,5 @@
 SomarCatapult:
-  Type: pig
+  Type: Giant
   Display: 'Catapulta Somar'
   Faction: CatapultaSomar
   AITargetSelectors:

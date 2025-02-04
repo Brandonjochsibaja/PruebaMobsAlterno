@@ -702,3 +702,44 @@
 [22:53:45] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
 [22:53:46] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] 
 [22:53:46] [Craft Scheduler Thread - 24 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[23:07:23] [Server thread/INFO]: [Mythic] Reloading plugin...
+[23:07:23] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[23:07:23] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[23:07:23] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[23:07:24] [Server thread/INFO]: [MythicMobs] Loading Items...
+[23:07:24] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[23:07:24] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[23:07:24] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[23:07:24] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[23:07:24] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[23:07:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[23:07:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[23:07:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[23:07:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 60 skills.
+[23:07:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[23:07:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[23:07:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[23:07:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[23:07:24] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[23:07:24] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[23:08:05] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:09:17] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:09:54] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:09:54] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/12742, uuid='f383b5dd-9b84-42b1-9d78-20644af21185', l='ServerLevel[world]', x=54.53, y=61.00, z=99.84, cpos=[3, 6], tl=742, v=true] died: Catapulta Somar was killed
+[23:09:54] [Server thread/INFO]: Named entity EntityPig['Catapulta Somar'/10705, uuid='cd95e11c-1b55-439c-bfc2-1607f5f4df6c', l='ServerLevel[world]', x=72.59, y=73.00, z=189.52, cpos=[4, 11], tl=20781, v=true] died: Catapulta Somar was killed
+[23:09:54] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/12411, uuid='1f49f7a3-ea95-485b-a6b0-325fb61d362d', l='ServerLevel[world]', x=71.71, y=55.00, z=124.13, cpos=[4, 7], tl=2177, v=true] died: Catapulta Somar was killed
+[23:09:54] [Server thread/INFO]: Named entity EntityPig['Catapulta Somar'/10031, uuid='fd567752-eaa0-4d83-93ea-abe0336022fd', l='ServerLevel[world]', x=40.80, y=80.00, z=185.34, cpos=[2, 11], tl=24007, v=true] died: Catapulta Somar was killed
+[23:09:54] [Server thread/INFO]: [CJML5067: Killed 132 entities]
+[23:09:56] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:09:56] [Server thread/INFO]: [CJML5067: Killed 195 entities]
+[23:10:01] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:10:19] [Server thread/INFO]: CJML5067 issued server command: /gamemode creative
+[23:10:19] [Server thread/INFO]: [CJML5067: Set own game mode to Creative Mode]
+[23:11:09] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:11:29] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:11:29] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/13682, uuid='9b76c8d0-1d31-47bf-887a-7d1ba02de584', l='ServerLevel[world]', x=41.07, y=65.00, z=41.80, cpos=[2, 2], tl=405, v=true] died: Catapulta Somar was killed
+[23:11:29] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/13373, uuid='aecb7efc-4c77-48ca-a927-b5b61e76a52f', l='ServerLevel[world]', x=40.50, y=57.00, z=64.69, cpos=[2, 4], tl=1762, v=true] died: Catapulta Somar was killed
+[23:11:29] [Server thread/INFO]: [CJML5067: Killed 165 entities]
+[23:11:31] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:11:31] [Server thread/INFO]: [CJML5067: Killed 120 entities]
+[23:11:33] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult

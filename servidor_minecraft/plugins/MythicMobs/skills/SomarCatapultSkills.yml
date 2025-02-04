@@ -42,5 +42,9 @@ explotar:
     - explosion{fire=true;y=10;bd=true} @Origin
 montar:
   Skills:
-    - mountmodel{d=false;pbone=asiento} @Trigger
+    - cancelevent
+    - mountmodel{d=false;pbone=p_asiento} @Trigger
     - message{m="Montando"} @Trigger
+prueba:
+  Skills:
+  -msg{m="montado"}

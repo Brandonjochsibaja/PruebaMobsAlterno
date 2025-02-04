@@ -111,3 +111,24 @@
 [19:26:06] [Server thread/INFO]: CJML5067[/127.150.122.140:40177] logged in with entity id 15 at ([world]-325.3543491139142, 119.36813569728537, 157.24637334378923)
 [19:26:25] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
 [19:34:27] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[19:39:14] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 3 models loaded.
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:39:15] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[19:39:16] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] 
+[19:39:16] [Craft Scheduler Thread - 0 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.

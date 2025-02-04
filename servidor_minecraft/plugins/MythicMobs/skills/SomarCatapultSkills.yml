@@ -41,5 +41,5 @@ explotar:
     - explosion{fire=true;y=10;bd=true} @Origin
 Montar:
   Skills:
-    - mountmodel @Trigger
+    - mountmodel{} @Trigger
     - message{m="Montando"} @Trigger

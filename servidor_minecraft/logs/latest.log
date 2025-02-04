@@ -915,3 +915,133 @@
 [23:18:56] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
 [23:18:56] [Server thread/INFO]: [CJML5067: Killed 138 entities]
 [23:18:59] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:22:04] [Server thread/INFO]: [Mythic] Reloading plugin...
+[23:22:04] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[23:22:04] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[23:22:04] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[23:22:04] [Server thread/INFO]: [MythicMobs] Loading Items...
+[23:22:04] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[23:22:04] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[23:22:04] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[23:22:04] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[23:22:04] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[23:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[23:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[23:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[23:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 60 skills.
+[23:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[23:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[23:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[23:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[23:22:04] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[23:22:04] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[23:22:10] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:22:10] [Server thread/INFO]: Named entity EntityHorse['Catapulta Somar'/18666, uuid='fe0ee2ad-fee8-4f91-84ff-eb9c097980f4', l='ServerLevel[world]', x=56.32, y=65.00, z=42.48, cpos=[3, 2], tl=3829, v=true] died: Catapulta Somar was killed
+[23:22:10] [Server thread/INFO]: [CJML5067: Killed 152 entities]
+[23:22:12] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:22:12] [Server thread/INFO]: [CJML5067: Killed 127 entities]
+[23:22:14] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:22:48] [Server thread/INFO]: [Mythic] Reloading plugin...
+[23:22:48] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[23:22:48] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[23:22:48] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[23:22:48] [Server thread/INFO]: [MythicMobs] Loading Items...
+[23:22:48] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[23:22:48] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[23:22:48] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[23:22:48] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[23:22:48] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[23:22:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[23:22:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[23:22:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[23:22:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 60 skills.
+[23:22:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[23:22:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[23:22:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[23:22:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[23:22:48] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[23:22:48] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[23:22:52] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:23:17] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:24:35] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] 3 models loaded.
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:24:35] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[23:24:36] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:24:36] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[23:24:36] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:24:36] [Craft Scheduler Thread - 35 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[23:29:27] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:29:27] [Server thread/INFO]: Named entity EntityHorse['Catapulta Somar'/19360, uuid='e40b035f-f6b6-4ee2-a5c8-2e891e71a2c9', l='ServerLevel[world]', x=56.01, y=65.00, z=25.99, cpos=[3, 1], tl=8670, v=true] died: Catapulta Somar was killed
+[23:29:27] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/19460, uuid='593ddcd9-0fcb-42ff-97f6-fbeeb602425a', l='ServerLevel[world]', x=54.37, y=65.00, z=16.64, cpos=[3, 1], tl=7896, v=true] died: Catapulta Somar was killed
+[23:29:27] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/19529, uuid='8074e73c-6155-4a17-a51c-752fea8621a7', l='ServerLevel[world]', x=53.29, y=65.00, z=24.70, cpos=[3, 1], tl=7404, v=true] died: Catapulta Somar was killed
+[23:29:27] [Server thread/INFO]: [CJML5067: Killed 131 entities]
+[23:29:30] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:29:30] [Server thread/INFO]: [CJML5067: Killed 185 entities]
+[23:29:32] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:30:23] [Server thread/INFO]: [Mythic] Reloading plugin...
+[23:30:23] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[23:30:23] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[23:30:23] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[23:30:24] [Server thread/INFO]: [MythicMobs] Loading Items...
+[23:30:24] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[23:30:24] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[23:30:24] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[23:30:24] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[23:30:24] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[23:30:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[23:30:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[23:30:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[23:30:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 60 skills.
+[23:30:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[23:30:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[23:30:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[23:30:24] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[23:30:24] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[23:30:24] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[23:30:29] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:30:29] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/20666, uuid='7ab804ae-4b78-4f0b-bb98-7e2af7846bf5', l='ServerLevel[world]', x=54.39, y=65.00, z=29.60, cpos=[3, 1], tl=1155, v=true] died: Catapulta Somar was killed
+[23:30:29] [Server thread/INFO]: [CJML5067: Killed 162 entities]
+[23:30:31] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:30:31] [Server thread/INFO]: [CJML5067: Killed 138 entities]
+[23:30:33] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:30:56] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:30:56] [Server thread/INFO]: Named entity EntityHorse['Catapulta Somar'/21043, uuid='354dd031-1ce9-4a01-9fc7-930648ffbe95', l='ServerLevel[world]', x=58.29, y=65.00, z=39.59, cpos=[3, 2], tl=450, v=true] died: Catapulta Somar was killed
+[23:30:56] [Server thread/INFO]: [CJML5067: Killed 139 entities]
+[23:30:59] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[23:30:59] [Server thread/INFO]: [CJML5067: Killed 158 entities]
+[23:31:02] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[23:31:50] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomar.bbmodel.
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] 3 models loaded.
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomar.
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:31:50] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[23:31:51] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] 
+[23:31:51] [Craft Scheduler Thread - 36 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.

@@ -1,5 +1,5 @@
 SomarCatapult:
-  Type: Horse
+  Type: horse
   Display: 'Catapulta Somar'
   Faction: CatapultaSomar
   AITargetSelectors:

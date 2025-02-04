@@ -41,5 +41,5 @@ explotar:
     - explosion{fire=true;y=10;bd=true} @Origin
 Montar:
   Skills:
-    - mountmodel{mid=CatapultaSomar_Grande;driver=false;p=p_mount} @Trigger
+    - mountmodel @Trigger
     - message{m="Montando"} @Trigger

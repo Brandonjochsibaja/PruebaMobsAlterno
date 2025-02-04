@@ -883,3 +883,144 @@
 [00:33:45] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
 [00:35:46] [Server thread/INFO]: CJML5067 issued server command: /time set day
 [00:35:46] [Server thread/INFO]: [CJML5067: Set the time to 1000]
+[00:39:02] [Server thread/INFO]: CJML5067 issued server command: /gamemode survival
+[00:39:02] [Server thread/INFO]: [CJML5067: Set own game mode to Survival Mode]
+[00:40:30] [Server thread/INFO]: That player does not exist
+[00:40:53] [Server thread/INFO]: Made Seraphimhead a server operator
+[00:41:00] [Server thread/INFO]: Seraphimhead issued server command: /gamemode creative
+[00:41:00] [Server thread/INFO]: [Seraphimhead: Set own game mode to Creative Mode]
+[00:42:37] [Server thread/INFO]: [Mythic] Reloading plugin...
+[00:42:37] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[00:42:37] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[00:42:37] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[00:42:37] [Server thread/INFO]: [MythicMobs] Loading Items...
+[00:42:37] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[00:42:37] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[00:42:37] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[00:42:37] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[00:42:37] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[00:42:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[00:42:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[00:42:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[00:42:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 57 skills.
+[00:42:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[00:42:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[00:42:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[00:42:37] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[00:42:37] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[00:42:37] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[00:42:50] [Server thread/INFO]: Seraphimhead issued server command: /setblock ~ ~-2 ~ end_po
+[00:43:07] [Server thread/INFO]: Seraphimhead issued server command: /setblock ~ ~-2 ~ minecraft:end_portal
+[00:43:07] [Server thread/INFO]: [Seraphimhead: Changed the block at 24, 64, 25]
+[00:43:17] [Server thread/INFO]: [Mythic] Reloading plugin...
+[00:43:17] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[00:43:17] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[00:43:17] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[00:43:17] [Server thread/INFO]: [MythicMobs] Loading Items...
+[00:43:17] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[00:43:17] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[00:43:17] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[00:43:17] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[00:43:17] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[00:43:17] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[00:43:17] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[00:43:17] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[00:43:17] [Server thread/INFO]: [MythicMobs] ✓ Loaded 57 skills.
+[00:43:17] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[00:43:17] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[00:43:17] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[00:43:17] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[00:43:17] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[00:43:17] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[00:43:58] [Server thread/INFO]: CJML5067 issued server command: /gamemode creative
+[00:43:58] [Server thread/INFO]: [CJML5067: Set own game mode to Creative Mode]
+[00:44:39] [Server thread/INFO]: Seraphimhead issued server command: /tp CJML5067 Seraphimhead
+[00:44:39] [Server thread/INFO]: [Seraphimhead: Teleported CJML5067 to Seraphimhead]
+[00:45:09] [Server thread/INFO]: Seraphimhead issued server command: /setblock ~ ~ ~ anvil
+[00:45:09] [Server thread/INFO]: [Seraphimhead: Changed the block at 1, 82, 27]
+[00:45:27] [Server thread/INFO]: Seraphimhead issued server command: /setblock ~ ~ ~ anvil
+[00:45:27] [Server thread/INFO]: [Seraphimhead: Changed the block at 4, 96, 28]
+[00:45:35] [Server thread/INFO]: [Mythic] Reloading plugin...
+[00:45:35] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[00:45:35] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[00:45:35] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[00:45:36] [Server thread/INFO]: [MythicMobs] Loading Items...
+[00:45:36] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[00:45:36] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[00:45:36] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[00:45:36] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[00:45:36] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[00:45:36] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Mob: SomarSoldier | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/mobs/ExampleMobs.yml
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill DamagedAnimation
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=DamagedAnimation;sync=true}
+[00:45:36] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Mob: SomarSoldier | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/mobs/ExampleMobs.yml
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill MuerteExtAnimation
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=MuerteExtAnimation;sync=true}
+[00:45:36] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.97b50538-65d8-4131-953d-8489da35c085 | File: Unknown
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea1
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea1}
+[00:45:36] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.b5b6f1bc-5ef4-45c1-a8dd-77745835188f | File: Unknown
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea2
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea2}
+[00:45:36] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.e62b6355-b633-4613-a3f1-0ce2ca66ebf2 | File: Unknown
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea3
+[00:45:36] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea3}
+[00:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[00:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[00:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[00:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 48 skills.
+[00:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[00:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[00:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[00:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[00:45:36] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[00:45:36] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[00:46:04] [Server thread/INFO]: Seraphimhead issued server command: /give Seraphimhead minecraft:netherite_sword 1
+[00:46:04] [Server thread/INFO]: [Seraphimhead: Gave 1 [Netherite Sword] to Seraphimhead]
+[00:46:18] [Server thread/INFO]: [Mythic] Reloading plugin...
+[00:46:18] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[00:46:18] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[00:46:18] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[00:46:19] [Server thread/INFO]: [MythicMobs] Loading Items...
+[00:46:19] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[00:46:19] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[00:46:19] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[00:46:19] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[00:46:19] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[00:46:19] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Mob: SomarSoldier | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/mobs/ExampleMobs.yml
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill DamagedAnimation
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=DamagedAnimation;sync=true}
+[00:46:19] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Mob: SomarSoldier | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/mobs/ExampleMobs.yml
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill MuerteExtAnimation
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=MuerteExtAnimation;sync=true}
+[00:46:19] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.b12cb0f8-f237-4617-a6a7-302935e5801c | File: Unknown
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea1
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea1}
+[00:46:19] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.61955f30-8534-462c-9f48-93c6b0e1bd6f | File: Unknown
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea2
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea2}
+[00:46:19] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.9a7d0b11-4418-432e-b375-7884b8a5e460 | File: Unknown
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea3
+[00:46:19] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea3}
+[00:46:19] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[00:46:19] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[00:46:19] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[00:46:19] [Server thread/INFO]: [MythicMobs] ✓ Loaded 48 skills.
+[00:46:19] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[00:46:19] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[00:46:19] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[00:46:19] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[00:46:19] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[00:46:19] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[00:46:19] [Server thread/INFO]: Seraphimhead issued server command: /enchant Seraphimhead minecraft:sharpness 5
+[00:46:19] [Server thread/INFO]: [Seraphimhead: Applied enchantment Sharpness V to Seraphimhead's item]

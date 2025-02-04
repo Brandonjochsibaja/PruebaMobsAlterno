@@ -16,7 +16,7 @@ Configuration:
   General:
     AllowMetrics: true
     CheckForUpdates: true
-    DebugLevel: 3
+    DebugLevel: 0
     DebugMode: true
     DebugSpawners: true
     ErrorLogging: true

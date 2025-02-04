@@ -38,7 +38,7 @@ GirarIzquierda:
     - setrotation{relative=true;pitch=0;yaw=-15} @Self
 explotar:
   Skills:
-    - explosion{fire=true} @Origin
+    - explosion{fire=true;y=10;bd=true} @Origin
 Montar:
   Skills:
     - mountmodel{mid=CatapultaSomar_Grande;driver=false;p=p_mount} @Trigger

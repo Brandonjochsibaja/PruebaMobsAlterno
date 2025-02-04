@@ -43,11 +43,12 @@ explotar:
 montar:
   Skills:
     - cancelevent
-    - mountme
-    - mountmodel{mid=CatapultaSomar;d=false;seat=mount} @Trigger
-    - message{m="Montando"} @Trigger
+    - mountmodel{mid=CatapultaSomar;d=false;seat=asiento} @Trigger
 prueba:
   Conditions:
-  - hasPassenger true
+  - hasPassenger orElseCast nomontado
   Skills:
     - msg{m="montado"} @NearestPlayer
+nomontado:
+ Skills:
+    - msg{m="Sin montar"} @NearestPlayer

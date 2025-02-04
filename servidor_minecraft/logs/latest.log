@@ -130,3 +130,43 @@
 [14:44:03] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
 [14:44:03] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
 [14:44:03] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[14:44:54] [Server thread/INFO]: [Mythic] Reloading plugin...
+[14:44:54] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[14:44:54] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[14:44:54] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[14:44:55] [Server thread/INFO]: [MythicMobs] Loading Items...
+[14:44:55] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[14:44:55] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[14:44:55] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[14:44:55] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[14:44:55] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[14:44:55] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Mob: SomarSoldier | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/mobs/ExampleMobs.yml
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill DamagedAnimation
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=DamagedAnimation;sync=true}
+[14:44:55] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Mob: SomarSoldier | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/mobs/ExampleMobs.yml
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill MuerteExtAnimation
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=MuerteExtAnimation;sync=true}
+[14:44:55] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.e1b9c94f-cbdb-473e-ad17-ae419123e784 | File: Unknown
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea1
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea1}
+[14:44:55] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.b234a54d-77e3-4908-8de9-4a5e93b7b0da | File: Unknown
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea2
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea2}
+[14:44:55] [Server thread/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic metaskill
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Skill: #λ.e72b5e86-c6c6-432e-a3f7-82b03bfaf301 | File: Unknown
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Error Message: Could not find MetaSkill AtaqueArea3
+[14:44:55] [Server thread/WARN]: [MythicMobs] --| Mechanic Line: skill{s=AtaqueArea3}
+[14:44:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[14:44:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[14:44:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[14:44:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 48 skills.
+[14:44:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[14:44:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[14:44:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[14:44:55] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[14:44:55] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[14:44:55] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!

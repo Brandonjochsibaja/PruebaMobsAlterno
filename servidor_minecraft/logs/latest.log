@@ -8826,3 +8826,151 @@
 [03:38:46] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarSoldier
 [03:38:58] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarSoldier 20
 [03:39:15] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarEnemies 20
+[03:40:07] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[03:40:26] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10699, uuid='cd1c4301-5d6a-4252-83dc-da38bacb1553', l='ServerLevel[world]', x=265.56, y=67.00, z=4.61, cpos=[16, 0], tl=1759, v=true] died: Soldado Somar was slain by Soldado Enemigo
+[03:40:26] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10394, uuid='d0d23294-dc82-4d2f-b13c-a4467f8954a7', l='ServerLevel[world]', x=278.44, y=66.00, z=13.44, cpos=[17, 0], tl=1766, v=true] died: Soldado Somar was slain by Soldado Enemigo
+[03:41:02] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10348, uuid='0644f3d7-4b41-43d6-a091-f341c4ba2fb2', l='ServerLevel[world]', x=277.82, y=65.00, z=11.68, cpos=[17, 0], tl=2711, v=true] died: Soldado Somar was slain by Soldado Enemigo
+[03:41:23] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10934, uuid='2a16f50b-878b-48c0-8af2-e4cb280cd647', l='ServerLevel[world]', x=275.92, y=66.00, z=12.74, cpos=[17, 0], tl=2915, v=true] died: Soldado Somar was slain by Soldado Enemigo
+[03:41:53] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10595, uuid='400a569f-3cf8-4863-a4f6-2aaa1ee25d29', l='ServerLevel[world]', x=295.28, y=44.00, z=9.24, cpos=[18, 0], tl=3499, v=true] died: Soldado Somar was slain by Soldado Enemigo
+[03:41:56] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10426, uuid='6f7d21f1-8586-4ff0-80df-86251be0675c', l='ServerLevel[world]', x=288.84, y=49.00, z=13.80, cpos=[18, 0], tl=3568, v=true] died: Soldado Somar was slain by Soldado Enemigo
+[03:42:29] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10395, uuid='b859295f-ce81-4679-8f1b-0d664d811cdc', l='ServerLevel[world]', x=293.91, y=46.10, z=21.44, cpos=[18, 1], tl=4216, v=true] died: Soldado Somar was slain by Soldado Enemigo
+[03:44:09] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10839, uuid='129de923-826d-4bc4-8d58-5c0f07f47db1', l='ServerLevel[world]', x=301.49, y=49.00, z=-15.94, cpos=[18, -1], tl=6218, v=true] died: Soldado Somar was slain by Soldado Enemigo
+[03:44:47] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10805, uuid='d8e6edc8-95e8-492b-9df2-ee3ed1899405', l='ServerLevel[world]', x=307.64, y=47.00, z=19.84, cpos=[19, 1], tl=6985, v=true] died: Soldado Somar was slain by Soldado Enemigo
+[03:45:03] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10599, uuid='22ef3072-a020-4b56-9e5f-0768a4e3a439', l='ServerLevel[world]', x=299.52, y=48.09, z=-15.55, cpos=[18, -1], tl=7312, v=true] died: Soldado Somar was slain by Soldado Enemigo
+[03:45:36] [Server thread/INFO]: [Mythic] Reloading plugin...
+[03:45:36] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[03:45:36] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[03:45:36] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[03:45:36] [Server thread/INFO]: [MythicMobs] Loading Items...
+[03:45:36] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[03:45:36] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[03:45:36] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[03:45:36] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[03:45:36] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[03:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[03:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[03:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[03:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 60 skills.
+[03:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[03:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[03:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[03:45:36] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[03:45:36] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[03:45:36] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[03:45:57] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11115, uuid='c06e0e51-a8d8-490b-8a3a-753b3394c3c8', l='ServerLevel[world]', x=292.76, y=46.00, z=20.59, cpos=[18, 1], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11114, uuid='99d47477-9472-4e18-af9e-b3cf8c5ff6f2', l='ServerLevel[world]', x=280.82, y=71.00, z=46.99, cpos=[17, 2], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11181, uuid='7272b98a-29f7-4ed5-9907-5004084c0025', l='ServerLevel[world]', x=283.76, y=56.34, z=7.42, cpos=[17, 0], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11146, uuid='e1b15e6b-1422-47f2-a376-1f5250b2b8a7', l='ServerLevel[world]', x=243.36, y=75.00, z=24.98, cpos=[15, 1], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11150, uuid='5897cc7a-be4a-496e-b76a-f8a227509e85', l='ServerLevel[world]', x=307.96, y=45.00, z=-1.56, cpos=[19, -1], tl=7906, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11318, uuid='94d20371-d45d-48f1-a1eb-3a82150a6fcb', l='ServerLevel[world]', x=272.96, y=62.00, z=-0.56, cpos=[17, -1], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/12004, uuid='3b8d17cd-6a46-4a5a-923c-d3d5db44285d', l='ServerLevel[world]', x=150.82, y=65.00, z=-19.45, cpos=[9, -2], tl=7012, v=true] died: Catapulta Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10494, uuid='07b02c6d-ebc7-4eeb-85ad-29aaeb344a7b', l='ServerLevel[world]', x=286.52, y=55.00, z=7.58, cpos=[17, 0], tl=8393, v=true] died: Soldado Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10972, uuid='61675077-4677-4f19-a1c1-0a5c3f9a86c2', l='ServerLevel[world]', x=282.44, y=47.00, z=-13.04, cpos=[17, -1], tl=8393, v=true] died: Soldado Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11454, uuid='b4e7f155-f7c5-4b4a-9470-802bb17b6f22', l='ServerLevel[world]', x=284.94, y=55.00, z=8.43, cpos=[17, 0], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/11042, uuid='4d650479-d06e-4c10-b3e4-d9414142140f', l='ServerLevel[world]', x=279.90, y=50.00, z=-1.56, cpos=[17, -1], tl=8393, v=true] died: Soldado Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11556, uuid='88014b13-fb75-46f3-afa9-0bfb78cdafa4', l='ServerLevel[world]', x=293.55, y=47.00, z=-4.91, cpos=[18, -1], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11658, uuid='420261dc-bb7a-4c21-ad1b-5b4a4dc0cca7', l='ServerLevel[world]', x=294.56, y=45.00, z=13.44, cpos=[18, 0], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10769, uuid='3f3462f9-6e71-4148-9152-76ad21176b75', l='ServerLevel[world]', x=279.02, y=65.00, z=10.86, cpos=[17, 0], tl=8393, v=true] died: Soldado Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/9547, uuid='36aa5ba1-1667-4af5-aa77-728bccdded94', l='ServerLevel[world]', x=134.89, y=65.00, z=7.48, cpos=[8, 0], tl=10004, v=true] died: Catapulta Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11692, uuid='148af191-a922-48de-bd5b-5dcec7d7b958', l='ServerLevel[world]', x=291.56, y=46.00, z=11.23, cpos=[18, 0], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11727, uuid='75f4aabc-a2f6-47f9-bc9c-9f64a9a2a9c0', l='ServerLevel[world]', x=282.56, y=55.00, z=7.44, cpos=[17, 0], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11726, uuid='fccb780f-ae85-4e46-a94d-59921c4cbeea', l='ServerLevel[world]', x=291.56, y=47.00, z=21.44, cpos=[18, 1], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10870, uuid='79dcc332-dac8-436c-b07f-79cabaae8397', l='ServerLevel[world]', x=290.76, y=48.57, z=-7.61, cpos=[18, -1], tl=8393, v=true] died: Soldado Somar was killed while fighting Soldado Enemigo
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10804, uuid='f489ce60-eceb-441d-9d83-a762beca3ff4', l='ServerLevel[world]', x=263.56, y=62.00, z=-3.44, cpos=[16, -1], tl=8393, v=true] died: Soldado Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11522, uuid='7965fb72-8095-46a2-8f38-1482e6ae6532', l='ServerLevel[world]', x=286.96, y=60.00, z=21.44, cpos=[17, 1], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10498, uuid='6af65c3f-9e32-4b77-9335-4ee4c5b7e734', l='ServerLevel[world]', x=288.99, y=51.30, z=11.00, cpos=[18, 0], tl=8393, v=true] died: Soldado Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11488, uuid='a7f7bf91-1f40-4cf6-8d5c-8a792491e21d', l='ServerLevel[world]', x=225.98, y=72.00, z=45.09, cpos=[14, 2], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10668, uuid='0c2ad6ba-0580-4608-bfe2-61f332548c3b', l='ServerLevel[world]', x=284.62, y=49.00, z=0.18, cpos=[17, 0], tl=8393, v=true] died: Soldado Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11591, uuid='0f50cbc3-2dd5-47a2-9cd0-b9d2264312d2', l='ServerLevel[world]', x=302.60, y=55.00, z=27.91, cpos=[18, 1], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11237, uuid='01941032-65f1-4188-853d-f627bc67dd88', l='ServerLevel[world]', x=281.10, y=72.00, z=36.39, cpos=[17, 2], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11319, uuid='3ff80b87-c6a9-48b1-98a0-1e9d069ea2c0', l='ServerLevel[world]', x=271.10, y=70.00, z=66.08, cpos=[16, 4], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10630, uuid='4ea23b6e-5a0c-47e0-869c-7506de681c4c', l='ServerLevel[world]', x=288.56, y=49.00, z=20.44, cpos=[18, 1], tl=8394, v=true] died: Soldado Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10460, uuid='398a9943-a5b6-455e-9c69-1397275b7d8a', l='ServerLevel[world]', x=286.56, y=55.00, z=8.87, cpos=[17, 0], tl=8393, v=true] died: Soldado Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11383, uuid='0c223bdb-6039-4468-8977-d374f00a078b', l='ServerLevel[world]', x=282.03, y=72.00, z=39.34, cpos=[17, 2], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Somar'/10938, uuid='0782ac93-7852-46f5-978b-53ed3ddcd1d2', l='ServerLevel[world]', x=289.50, y=50.00, z=0.85, cpos=[18, 0], tl=8393, v=true] died: Soldado Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/8918, uuid='6c89f7a0-1e3d-42e4-8e87-89aefd7abe6d', l='ServerLevel[world]', x=60.15, y=65.00, z=-17.12, cpos=[3, -2], tl=12182, v=true] died: Catapulta Somar was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11590, uuid='6386eb11-c191-4703-a987-21a288ba5d5a', l='ServerLevel[world]', x=247.02, y=75.00, z=20.57, cpos=[15, 1], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: Named entity EntityZombie['Soldado Enemigo'/11420, uuid='ab6a7545-77a2-410e-a0cc-5a869e05d82a', l='ServerLevel[world]', x=293.56, y=44.00, z=9.04, cpos=[18, 0], tl=8052, v=true] died: Soldado Enemigo was killed
+[03:45:57] [Server thread/INFO]: [CJML5067: Killed 172 entities]
+[03:46:05] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[03:46:05] [Server thread/INFO]: [CJML5067: Killed 234 entities]
+[03:46:19] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[03:47:00] [Server thread/INFO]: [Mythic] Reloading plugin...
+[03:47:00] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[03:47:00] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[03:47:00] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[03:47:00] [Server thread/INFO]: [MythicMobs] Loading Items...
+[03:47:00] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[03:47:00] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[03:47:00] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[03:47:00] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[03:47:00] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[03:47:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[03:47:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[03:47:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[03:47:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 60 skills.
+[03:47:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[03:47:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[03:47:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[03:47:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[03:47:00] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[03:47:00] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[03:47:09] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[03:47:09] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/14415, uuid='12bc3ef7-f2d9-4d97-ab6c-d331c5bc4190', l='ServerLevel[world]', x=190.83, y=65.00, z=17.85, cpos=[11, 1], tl=1007, v=true] died: Catapulta Somar was killed while fighting CJML5067
+[03:47:09] [Server thread/INFO]: [CJML5067: Killed 169 entities]
+[03:47:11] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[03:47:11] [Server thread/INFO]: [CJML5067: Killed 132 entities]
+[03:47:13] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[03:47:32] [Server thread/INFO]: [Mythic] Reloading plugin...
+[03:47:32] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[03:47:32] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[03:47:32] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[03:47:33] [Server thread/INFO]: [MythicMobs] Loading Items...
+[03:47:33] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[03:47:33] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[03:47:33] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[03:47:33] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[03:47:33] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[03:47:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[03:47:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[03:47:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[03:47:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 60 skills.
+[03:47:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[03:47:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[03:47:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[03:47:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[03:47:33] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[03:47:33] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[03:47:49] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[03:47:49] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/14923, uuid='79fdcb69-1c80-4f8d-918b-03a4ada1c5d0', l='ServerLevel[world]', x=183.26, y=65.00, z=14.08, cpos=[11, 0], tl=721, v=true] died: Catapulta Somar was killed while fighting CJML5067
+[03:47:49] [Server thread/INFO]: [CJML5067: Killed 126 entities]
+[03:47:50] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[03:47:50] [Server thread/INFO]: [CJML5067: Killed 100 entities]
+[03:47:52] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[03:49:21] [Server thread/INFO]: [Mythic] Reloading plugin...
+[03:49:21] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[03:49:21] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[03:49:21] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[03:49:22] [Server thread/INFO]: [MythicMobs] Loading Items...
+[03:49:22] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[03:49:22] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[03:49:22] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[03:49:22] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[03:49:22] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[03:49:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[03:49:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[03:49:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[03:49:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 60 skills.
+[03:49:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[03:49:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[03:49:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[03:49:22] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[03:49:22] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[03:49:22] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[03:49:44] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[03:49:44] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/15374, uuid='4ba1949e-e09f-45f6-971d-43202087f2c0', l='ServerLevel[world]', x=186.10, y=65.00, z=14.08, cpos=[11, 0], tl=2228, v=true] died: Catapulta Somar was killed
+[03:49:44] [Server thread/INFO]: [CJML5067: Killed 123 entities]
+[03:49:46] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[03:49:46] [Server thread/INFO]: [CJML5067: Killed 171 entities]
+[03:49:48] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult

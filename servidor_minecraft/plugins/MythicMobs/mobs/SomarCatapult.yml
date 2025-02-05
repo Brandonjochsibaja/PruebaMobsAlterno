@@ -20,7 +20,7 @@ SomarCatapult:
   damage: 75
   Skills:
     - skill{s=CPrepareModelSomar} @Self ~onSpawn
-    - mountmodel{d=false;seat=asientop_2} @Trigger ~onInteract
-    - skill{s=prueba} @Trigger ~onTimer:1
-    - skill{s=ContornoVariabs} ~onTimer:1
-    - skill{s=Accion;Sync=true} ~onDamaged
+    - mountmodel{mid=CatapultaSomarfinal;d=false;seat=asiento} @Trigger ~onInteract
+#    - skill{s=prueba} @Trigger ~onTimer:1
+#    - skill{s=ContornoVariabs} ~onTimer:1
+#    - skill{s=Accion;Sync=true} ~onDamaged

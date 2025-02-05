@@ -14,7 +14,7 @@ ContornoVariabs:
   TargetConditions:
     - (isMythicMob || isPlayer) true
   Skills:
-    - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=270;conditions=[  - isPlayer true]}
+    - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=270}
     - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=60}
     - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=12;rot=190}
     - setvariable{var=target.posc;t=string;value="lejos"} @EIRR{min=8;max=10}
@@ -45,7 +45,7 @@ explotar:
     - effect:particles @RandomLocationsNearOrigin{r=10;a=20}
 montar:
   Skills:
-    - mountmodel{mid=CatapultaSomarfinal;mode=walking} @Trigger
+    - mountmodel{mid=CatapultaSomarfinal;driver=false;mode=walking;f=true} @Trigger
 prueba:
   Conditions:
   - hasPassenger orElseCast nomontado

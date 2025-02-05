@@ -12,9 +12,9 @@ Disparar:
     - projectile{bullet=block;material=STONE;vO=1.3;g=0.17;v=21;syo=15;sfo=1.8;mr=500;int=0.001;onHitBlockSkill=explotar;dd=300} @Forward{a=10}
 ContornoVariabs: 
   TargetConditions:
-    - (isMythicMob true || isPlayer true) true
+    - (isMythicMob || isPlayer) true
   Skills:
-    - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=270}
+    - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=270;conditions=[  - isPlayer true]}
     - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=60}
     - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=12;rot=190}
     - setvariable{var=target.posc;t=string;value="lejos"} @EIRR{min=8;max=10}

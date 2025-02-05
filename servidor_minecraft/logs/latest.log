@@ -5062,3 +5062,297 @@
 [02:55:51] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] 
 [02:55:51] [Craft Scheduler Thread - 4 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
 [02:56:49] [Server thread/INFO]: CJML5067 issued server command: /meg summon catapultasomarfinal
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomarfinal.bbmodel.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationavanzarcorto.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedadelantera.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedatrasera.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationretrocedercorto.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedadelantera.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedatrasera.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationavanzargirolargo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedadelantera.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedatrasera.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationretrocedergirolargo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedadelantera.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedatrasera.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationgiroizquierdacorto.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationgiroizquierda90.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationgiroderechacorto.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationgiroderecha90.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationlanzarbloque.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline tronco1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline brazo_de_catapulta.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline ligalanzabrazo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasizquierda.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta1extra.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline centrocontactoconbrazo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasderecha.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta2extra.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone1_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone2_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone3_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone4_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cabletieso.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline palanca.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa2.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline curvacuerda_ejebrazo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_2.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_3.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_4.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_5.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_6.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_7.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_8.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_9.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_10.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_11.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_12.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_13.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_14.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_15.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_16.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline eng2izquierda.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcargardisparo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline tronco1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline brazo_de_catapulta.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline ligalanzabrazo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasizquierda.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta1extra.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline centrocontactoconbrazo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasderecha.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta2extra.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone1_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone2_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone3_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone4_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cabletieso.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline palanca.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa2.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline curvacuerda_ejebrazo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_2.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_3.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_4.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_5.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_6.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_7.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_8.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_9.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_10.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_11.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_12.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_13.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_14.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_15.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_16.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline eng2izquierda.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline _extencion13.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationlanzarbloque3.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline tronco1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline brazo_de_catapulta.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline ligalanzabrazo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasizquierda.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta1extra.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline centrocontactoconbrazo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasderecha.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta2extra.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone1_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone2_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone3_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone4_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cabletieso.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline palanca.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa2.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline curvacuerda_ejebrazo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_2.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_3.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_4.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_5.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_6.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_7.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_8.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_9.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_10.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_11.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_12.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_13.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_14.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_15.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_16.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline eng2izquierda.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationlanzarbloque2.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline tronco1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline brazo_de_catapulta.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline ligalanzabrazo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasizquierda.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta1extra.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline centrocontactoconbrazo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasderecha.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta2extra.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone1_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone2_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone3_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone4_ap.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cabletieso.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline palanca.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_2.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_3.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_4.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_5.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_6.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_7.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_8.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_9.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_10.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_11.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_12.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_13.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_14.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_15.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_16.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline _extencion16.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa2.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationrespaldoanimacióndisparocable.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline curvacuerda_ejebrazo.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_1.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_2.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_3.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_4.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_5.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_6.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_7.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_8.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_9.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_10.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_11.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_12.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_13.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_14.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_15.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_16.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animation.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 1 models loaded.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomarfinal.
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --traseros.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --pedazostroncosdiag.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --frontales.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tronco1.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tronco2.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tronco3.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tronco4.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tronco5.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --troncos_al_frente.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --troncosenmedio.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --troncos_de_atras.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --prensastroncosgiratorios_ruedasdelanteras.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --contornoscubosdebajo.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --prensastroncosgiratorios_ruedastraseras.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --contornosprensastablones.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --troncos_delanteros.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --troncos_traseros.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --redstone1_ap.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --redstone2_ap.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --redstone3_ap.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --redstone4_ap.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --redstone1_enc.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --redstone2_enc.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --redstone3_enc.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --redstone4_enc.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tablones.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --palobrazo.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --arreglocuchara.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --giroextracubo.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --giroextrapieza.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --giroextrapieza2.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --agarradera.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --agarredecuerda.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --giroextranoventa.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --cabletieso.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion1.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion2.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion3.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion4.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion5.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencio6.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion7.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion8.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion9.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --extencion10.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion11.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion12.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion13.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion14.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion15.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion16.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --ruedacompletasincuerda.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --maniubro1.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --maniubro2.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --giro90piezas.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --ejesruedacuerda.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --cinta1extra.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --cintaatronco1.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --centrocontactoconbrazo.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --cinta2extra.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --cintaatronco2.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --troncoruedadelantera.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tapa1.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --rueda1.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tapa2.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --rueda2.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --troncoruedatrasera.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tapa3.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --rueda3.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tapa4.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --rueda4.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --interruptorlanzar.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --palanca.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --agarraderabrazo1_palanca.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --giroprensa1.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --giroprensa2.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --agarraderabrazo2_palanca.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --eng1derecha.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --eng1izquierda.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --eng2derecha.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --eng2izquierda.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --eng3izquierda.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --eng3derecha.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --estandarte1.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --estandarte2.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --estandarte3.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --estandarte4.json
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tablones_fila.png
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --bloqueslizos.png
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --bloque_tronco.png
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --madera.png
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --ladrillo_piedra_liza.png
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --oak_wood.png
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --palanca.png
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --redstone_dust_line0.png
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --redstone_dust_line03.png
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --vaya_pila.png
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --estandarte.png
+[02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tablones_pila.png
+[02:59:27] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
+[02:59:27] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.

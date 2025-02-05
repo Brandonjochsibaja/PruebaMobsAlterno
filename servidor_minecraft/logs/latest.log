@@ -5356,3 +5356,1663 @@
 [02:59:26] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] --tablones_pila.png
 [02:59:27] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] 
 [02:59:27] [Craft Scheduler Thread - 2 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomarfinal.bbmodel.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationavanzarcorto.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedadelantera.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedatrasera.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline asiento2p_.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationretrocedercorto.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedadelantera.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedatrasera.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationavanzargirolargo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedadelantera.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedatrasera.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationretrocedergirolargo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedadelantera.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline troncoruedatrasera.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationgiroizquierdacorto.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationgiroizquierda90.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationgiroderechacorto.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationgiroderecha90.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline catapulta.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationlanzarbloque.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline tronco1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline brazo_de_catapulta.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline ligalanzabrazo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasizquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta1extra.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline centrocontactoconbrazo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasderecha.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta2extra.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone1_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone2_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone3_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone4_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cabletieso.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline palanca.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline curvacuerda_ejebrazo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_3.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_4.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_5.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_6.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_7.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_8.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_9.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_10.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_11.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_12.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_13.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_14.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_15.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_16.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline eng2izquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcargardisparo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline tronco1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline brazo_de_catapulta.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline ligalanzabrazo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasizquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta1extra.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline centrocontactoconbrazo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasderecha.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta2extra.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone1_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone2_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone3_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone4_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cabletieso.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline palanca.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline curvacuerda_ejebrazo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_3.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_4.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_5.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_6.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_7.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_8.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_9.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_10.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_11.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_12.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_13.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_14.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_15.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_16.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline eng2izquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline _extencion13.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationlanzarbloque3.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline tronco1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline brazo_de_catapulta.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline ligalanzabrazo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasizquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta1extra.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline centrocontactoconbrazo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasderecha.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta2extra.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone1_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone2_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone3_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone4_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cabletieso.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline palanca.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline curvacuerda_ejebrazo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_3.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_4.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_5.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_6.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_7.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_8.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_9.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_10.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_11.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_12.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_13.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_14.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_15.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_16.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline eng2izquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline asiento2p_.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationlanzarbloque2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline tronco1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline brazo_de_catapulta.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline ligalanzabrazo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasizquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta1extra.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline centrocontactoconbrazo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cintasderecha.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cinta2extra.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone1_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone2_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone3_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline redstone4_ap.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline cabletieso.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline palanca.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_3.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_4.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_5.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_6.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_7.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_8.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_9.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_10.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_11.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_12.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_13.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_14.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_15.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_16.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline _extencion16.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline giroprensa2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationrespaldoanimacióndisparocable.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline curvacuerda_ejebrazo.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_3.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_4.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_5.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_6.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_7.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_8.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_9.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_10.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_11.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_12.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_13.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_14.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_15.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline grupo_cuerda_16.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animation.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation death2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation death.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationacabarrival2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline body.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationacabarrival.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataqueestocadaderecha.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquearea3.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquearea2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataque1izquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquearea1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquecomun2(sinprep).
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline body.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquecomun2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquecomun.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline body.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataqueestocadaderecha_bucle.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation supuestoidle.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationmirartarget.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/WARN]: [ModelEngine] [A] ------Unknown keyframe data: query.target_x_rotation
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/WARN]: [ModelEngine] [A] ------Unknown keyframe data: query.target_y_rotation
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation walk4(runobjetivo).
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation walk3(run).
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation walk2(objetivo).
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation walk1(normal).
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationempujarderecha.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationempujarizquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapulta-subirbloque1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultasubirbloque2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapulta-subirbloque3.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapulta-subirbloque4.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcaminarderecha.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcaminarizquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapulta-tomarbloque.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcaminardetenerderechaatras.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcaminardetenerizquierdaatras.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultallevarbloquederecha.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultallevarbloqueizquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultallevarbloque_bucle.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultadetenerderechaatrasconbloque.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultadetenerizquierdaatrasconbloque2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataque3continuarposicionestatica.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquearea3cierre.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultasubir.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultasubirestatico.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultadispararderechapalanca.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquecomun3.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationdamagedconmovimientocompleto.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationdamaged.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation death2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation death1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationacabarrival2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline body.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationacabarrival.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataqueestocadaderecha.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquearea3.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquearea2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataque1izquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquearea1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquecomun2(sinprep).
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline body.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquecomun2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquecomun.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline body.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataqueestocadaderecha_bucle.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation supuestoidle.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationmirartarget.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/WARN]: [ModelEngine] [A] ------Unknown keyframe data: query.target_x_rotation
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/WARN]: [ModelEngine] [A] ------Unknown keyframe data: query.target_y_rotation
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation walk4(runobjetivo).
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation walk3(run).
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation walk2(objetivo).
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation walk1(normal).
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationempujarderecha.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationempujarizquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapulta-subirbloque1.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultasubirbloque2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapulta-subirbloque3.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapulta-subirbloque4.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcaminarderecha.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcaminarizquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapulta-tomarbloque.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcaminardetenerderechaatras.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcaminardetenerizquierdaatras.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultallevarbloquederecha.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultallevarbloqueizquierda.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultallevarbloque_bucle.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultadetenerderechaatrasconbloque.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultadetenerizquierdaatrasconbloque2.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataque3continuarposicionestatica.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquearea3cierre.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultasubir.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultasubirestatico.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationcatapultadispararderechapalanca.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline head.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline arms.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arco.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline auxblock.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationataquecomun3.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline legs.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationdamagedconmovimientocompleto.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --Parsing animation animationdamaged.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline soldadosomar.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline trensuperior.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_sword.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_arm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_forarm.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline right_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillarigth.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline left_leg.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] ----Parsing timeline pantorrillaleft.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 3 models loaded.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] [Generating assets]
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Generating catapultasomarfinal.
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --traseros.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --pedazostroncosdiag.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --frontales.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --tronco1.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --tronco2.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --tronco3.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --tronco4.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --tronco5.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --troncos_al_frente.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --troncosenmedio.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --troncos_de_atras.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --prensastroncosgiratorios_ruedasdelanteras.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --contornoscubosdebajo.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --prensastroncosgiratorios_ruedastraseras.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --contornosprensastablones.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --troncos_delanteros.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --troncos_traseros.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --redstone1_ap.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --redstone2_ap.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --redstone3_ap.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --redstone4_ap.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --redstone1_enc.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --redstone2_enc.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --redstone3_enc.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --redstone4_enc.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --tablones.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --palobrazo.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --arreglocuchara.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --giroextracubo.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --giroextrapieza.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --giroextrapieza2.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --agarradera.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --agarredecuerda.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --giroextranoventa.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --cabletieso.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion1.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion2.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion3.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion4.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion5.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencio6.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion7.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion8.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion9.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --extencion10.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion11.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion12.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion13.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion14.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion15.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --_extencion16.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --ruedacompletasincuerda.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --maniubro1.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --maniubro2.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --giro90piezas.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --ejesruedacuerda.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --cinta1extra.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --cintaatronco1.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --centrocontactoconbrazo.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --cinta2extra.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --cintaatronco2.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --troncoruedadelantera.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --tapa1.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --rueda1.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --tapa2.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --rueda2.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --troncoruedatrasera.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --tapa3.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --rueda3.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --tapa4.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --rueda4.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --interruptorlanzar.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --palanca.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --agarraderabrazo1_palanca.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --giroprensa1.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --giroprensa2.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --agarraderabrazo2_palanca.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --eng1derecha.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --eng1izquierda.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --eng2derecha.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --eng2izquierda.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --eng3izquierda.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --eng3derecha.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --estandarte1.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --estandarte2.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --estandarte3.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --estandarte4.json
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --tablones_fila.png
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --bloqueslizos.png
+[03:18:32] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --bloque_tronco.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --madera.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --ladrillo_piedra_liza.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --oak_wood.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --palanca.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --redstone_dust_line0.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --redstone_dust_line03.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --vaya_pila.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --estandarte.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --tablones_pila.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Generating enemigosomar.
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --head.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --right_arm.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --right_forarm.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --right_sword.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --left_arm.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --left_forarm.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --left_sword.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --cuerdaarco.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --arcocurva.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --body.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --right_leg.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --pantorrillarigth.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --left_leg.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --pantorrillaleft.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --auxblock.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --white_knight_2_custom_npc.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --white_knight.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --2020_11_11_soldado-medieval-15732645.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --espada_de_diamante_para_textura_de_bedwars.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --espada_de_ferro_para_textura_de_bedwars.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --arco_minecraft_texture.jpg.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --texture.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Generating somarsoldier.
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --head.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --right_arm.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --right_forarm.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --right_sword.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --left_arm.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --left_forarm.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --left_sword.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --cuerdaarco.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --arcocurva.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --body.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --right_leg.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --pantorrillarigth.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --left_leg.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --pantorrillaleft.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --auxblock.json
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --white_knight_2_custom_npc.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --white_knight.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --2020_11_11_soldado-medieval-15732645.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --espada_de_diamante_para_textura_de_bedwars.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --espada_de_ferro_para_textura_de_bedwars.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --arco_minecraft_texture.jpg.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] --texture.png
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] 
+[03:18:33] [Craft Scheduler Thread - 3 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.

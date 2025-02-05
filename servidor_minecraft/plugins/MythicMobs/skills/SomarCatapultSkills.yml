@@ -42,8 +42,7 @@ explotar:
     - explosion{fire=true;y=10;bd=true} @Origin
 montar:
   Skills:
-    - cancelevent
-    - mountmodel{mid=CatapultaSomar;d=false;seat=asiento2} @Trigger
+    - mountmodel{mid=CatapultaSomar} @Trigger
 prueba:
   Conditions:
   - hasPassenger orElseCast nomontado

@@ -1,6 +1,6 @@
 CPrepareModelSomar:
   Skills:
-    - model{mid=CatapultaSomar;usm=true;n="Somar Catapult";ride=true;driver=true}
+    - model{mid=CatapultaSomarfinal;usm=true;n="Somar Catapult";ride=true;driver=true}
 Disparar:
   TriggerConditions:
     - itemissimilar{item=iron_axe;slot=hand} false
@@ -43,7 +43,7 @@ explotar:
 montar:
   Skills:
     - cancelevent
-    - mountmodel{mid=CatapultaSomar;d=false;seat=asiento2} @Trigger
+    - mountmodel{mid=CatapultaSomar;d=false;seat=p_asiento2} @Trigger
 prueba:
   Conditions:
   - hasPassenger orElseCast nomontado

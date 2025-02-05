@@ -17,14 +17,14 @@ ContornoVariabs:
     - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=270}
     - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=60}
     - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=12;rot=190}
-    - effect:particles @RingAroundOrigin{r=10;p=20}
+    - setvariable{var=target.posc;t=string;value="lejos"} @EIRR{min=8;max=10}
     - message{m="marcando - <target.var.posc>"} @World
 Accion:
   TriggerConditions:
     - variableEquals{key=caster.posc;value="derecha"} CastInstead GirarDerecha
     - variableEquals{key=caster.posc;value="izquierda"} CastInstead GirarIzquierda
     - variableEquals{key=caster.posc;value="atras"} CastInstead Disparar
-#    - variableEquals{key=target.posc;value="null"} true
+#    - variableEquals{key=target.posc;value="lejos"} true
   Skills:
     - message{m="interactuando"} @NearestPlayer
 GirarDerecha:
@@ -40,6 +40,7 @@ GirarIzquierda:
 explotar:
   Skills:
     - explosion{fire=true;y=10;bd=true} @Origin
+    - effect:particles @RingAroundOrigin{r=5;p=6}
 montar:
   Skills:
     - mountmodel{mid=CatapultaSomarfinal;mode=walking;dmg=true} @Trigger

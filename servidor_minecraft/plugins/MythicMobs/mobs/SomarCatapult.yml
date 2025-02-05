@@ -1,5 +1,5 @@
 SomarCatapult:
-  Type: horse
+  Type: giant
   Display: 'Catapulta Somar'
   Faction: CatapultaSomar
   AITargetSelectors:

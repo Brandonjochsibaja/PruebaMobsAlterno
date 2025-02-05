@@ -1,5 +1,5 @@
 SomarCatapult:
-  Type: horse
+  Type: giant
   Display: 'Catapulta Somar'
   Faction: CatapultaSomar
   AITargetSelectors:
@@ -20,7 +20,7 @@ SomarCatapult:
   damage: 75
   Skills:
     - skill{s=CPrepareModelSomar} @Self ~onSpawn
-    - mountmodel{mid=CatapultaSomar;d=false;seat=asientop_2} @Trigger ~onInteract
-#    - skill{s=prueba} @Trigger ~onTimer:1
-#    - skill{s=ContornoVariabs} ~onTimer:1
-#    - skill{s=Accion;Sync=true} ~onDamaged
+    - mountmodel{d=false;seat=asientop_2} @Trigger ~onInteract
+    - skill{s=prueba} @Trigger ~onTimer:1
+    - skill{s=ContornoVariabs} ~onTimer:1
+    - skill{s=Accion;Sync=true} ~onDamaged

@@ -43,7 +43,7 @@ explotar:
     - effect:particles @RingAroundOrigin{r=5;p=6}
 montar:
   Skills:
-    - mountmodel{mid=CatapultaSomarfinal;mode=walking;driver=false;seat=asiento2} @Trigger
+    - mountmodel{mid=CatapultaSomarfinal;mode=walking} @Trigger
 prueba:
   Conditions:
   - hasPassenger orElseCast nomontado

@@ -4259,3 +4259,6 @@
 [16:48:19] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
 [16:48:19] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
 [16:48:19] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:48:46] [Server thread/INFO]: CJML5067 issued server command: /gamemode survival
+[16:48:46] [Server thread/INFO]: [CJML5067: Set own game mode to Survival Mode]
+[16:48:53] [Server thread/WARN]: CJML5067 moved too quickly! -4.311795723150567,-2.8124999761581506,-9.466928553440184

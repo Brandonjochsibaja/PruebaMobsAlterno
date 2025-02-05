@@ -17,7 +17,7 @@ ContornoVariabs:
     - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=270}
     - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=60}
     - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=12;rot=190}
-    - setvariable{var=target.posc;t=string;value="null"} @EIR{r=15to18}
+    - effect:particles @RingAroundOrigin{r=10;p=20}
     - message{m="marcando - <target.var.posc>"} @World
 Accion:
   TriggerConditions:

@@ -40,7 +40,9 @@ GirarIzquierda:
 explotar:
   Skills:
     - explosion{fire=true;y=10;bd=true} @Origin
-    - effect:particles @RingAroundOrigin{r=5;p=6}
+    - effect:particles @RandomLocationsNearOrigin{r=4;a=7}
+    - delay 10
+    - effect:particles @RandomLocationsNearOrigin{r=10;a=20}
 montar:
   Skills:
     - mountmodel{mid=CatapultaSomarfinal;mode=walking} @Trigger

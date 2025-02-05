@@ -13,7 +13,7 @@ Model-Generator:
   Register-Post-Server: true
   Assets-Post-Server: true
   Enable-Error: true
-  Debug-Level: 1
+  Debug-Level: 3
   Namespace: modelengine
   Compartment-Size: 1000
   Create-Zip: true

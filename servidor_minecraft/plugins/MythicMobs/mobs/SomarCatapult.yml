@@ -10,9 +10,9 @@ SomarCatapult:
   AIgoalSelectors:
     - 0 clear
   Options:
-    PreventSunburn: true
+    CanMove: false
     FollowRange: 100
-    movementspeed: 1.2
+    movementspeed: 0
     IAno: false
   Modules:
     ThreatTable: true
@@ -20,7 +20,7 @@ SomarCatapult:
   damage: 75
   Skills:
     - skill{s=CPrepareModelSomar} @Self ~onSpawn
-    - skill{s=montar} ~onInteract
+    - mountmodel{mid=CatapultaSomar} @Trigger ~onInteract
 #    - skill{s=prueba} @Trigger ~onTimer:1
 #    - skill{s=ContornoVariabs} ~onTimer:1
 #    - skill{s=Accion;Sync=true} ~onDamaged

@@ -20,6 +20,6 @@ SomarCatapult:
   Skills:
     - skill{s=CPrepareModelSomar} @Self ~onSpawn
     - skill{s=montar} @Trigger ~onInteract
-#    - skill{s=prueba} @Trigger ~onTimer:1
+    - skill{s=Mira} @Self ~onTimer:1
     - skill{s=ContornoVariabs} @EIR{r=15} ~onTimer:1
     - skill{s=Accion;Sync=true} ~onDamaged

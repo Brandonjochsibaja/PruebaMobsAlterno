@@ -56,6 +56,6 @@ prueba:
   - hasPassenger orElseCast nomontado
   Skills:
     - msg{m="montado"} @NearestPlayer
-nomontado:
+Mira:
  Skills:
-    - msg{m="Sin montar"} @NearestPlayer
+    - particles{type=Trial_Spawner_Detection;size=4;a=1;uel=true;forwardOffset=3} 

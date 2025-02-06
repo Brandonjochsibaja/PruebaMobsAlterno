@@ -2,13 +2,12 @@ CPrepareModelSomar:
   Skills:
     - model{mid=CatapultaSomarfinal;n="Somar Catapult";ride=true;drive=true}
 Disparar:
-  
-  Skills:
-    - cancelevent
-    skilllanzarBloque
-lanzarBloque:
   TriggerConditions:
     - itemissimilar{item=iron_axe;slot=hand} false
+  Skills:
+    - skill{s=lanzarBloque}
+lanzarBloque:
+  Cooldown: 15
   Skills:
     - state{mid=CatapultaSomarfinal;s=animationLanzarBloque3} @Self
     - message{m="disparando"} @NearestPlayer
@@ -26,11 +25,12 @@ ContornoVariabs:
     - message{m="marcando - <target.var.posc>"} @World
 Accion:
   TriggerConditions:
-    - variableEquals{key=caster.posc;value="derecha"} CastInstead GirarDerecha
-    - variableEquals{key=caster.posc;value="izquierda"} CastInstead GirarIzquierda
-    - variableEquals{key=caster.posc;value="atras"} CastInstead Disparar
+    - variableEquals{key=caster.posc;value="derecha"} Cast GirarDerecha
+    - variableEquals{key=caster.posc;value="izquierda"} Cast GirarIzquierda
+    - variableEquals{key=caster.posc;value="atras"} Cast Disparar
 #    - variableEquals{key=target.posc;value="lejos"} true
   Skills:
+    - cancelevent
     - message{m="interactuando"} @NearestPlayer
 GirarDerecha:
   Skills:

@@ -58,4 +58,4 @@ prueba:
     - msg{m="montado"} @NearestPlayer
 Mira:
  Skills:
-    - particles{type=Scrape;material=end_crystal;size=5;a=1;uel=true;forwardOffset=4;yOffset=5} @Self
+    - particles{p=Crit;size=8;a=1;uel=true;forwardOffset=3;yOffset=5} @Self

@@ -1,6 +1,6 @@
 CPrepareModelSomar:
   Skills:
-    - model{mid=CatapultaSomarfinal;n="Somar Catapult";ride=true;drive=true}
+    - model{mid=CatapultaSomarfinal;n="Somar Catapult";ride=true}
 Disparar:
   TriggerConditions:
     - itemissimilar{item=iron_axe;slot=hand} false

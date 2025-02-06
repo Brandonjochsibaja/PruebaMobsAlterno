@@ -714,3 +714,33 @@
 [01:46:51] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
 [01:47:43] [Server thread/INFO]: CJML5067 lost connection: Disconnected
 [01:47:43] [Server thread/INFO]: CJML5067 left the game
+[02:33:24] [User Authenticator #1/INFO]: UUID of player CJML5067 is 05d89580-8d76-339c-aefb-9e7196b6ba3c
+[02:33:25] [Server thread/INFO]: CJML5067 joined the game
+[02:33:25] [Server thread/INFO]: CJML5067[/127.150.122.140:56933] logged in with entity id 8446 at ([world]40.34776397261427, 65.0, 42.604955729947875)
+[02:33:44] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:33:48] [Server thread/INFO]: [Mythic] Reloading plugin...
+[02:33:48] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[02:33:48] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[02:33:48] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[02:33:48] [Server thread/INFO]: [MythicMobs] Loading Items...
+[02:33:48] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[02:33:48] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[02:33:48] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[02:33:48] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[02:33:48] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[02:33:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[02:33:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[02:33:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[02:33:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[02:33:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[02:33:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[02:33:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[02:33:48] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[02:33:48] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[02:33:48] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[02:33:55] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[02:33:55] [Server thread/INFO]: Named entity EntityGiantZombie['Catapulta Somar'/7944, uuid='828c99b5-9191-41dd-b4e8-08e169975cb6', l='ServerLevel[world]', x=46.84, y=65.00, z=43.49, cpos=[2, 2], tl=60504, v=true] died: Catapulta Somar was killed
+[02:33:55] [Server thread/INFO]: [CJML5067: Killed 116 entities]
+[02:33:56] [Server thread/INFO]: CJML5067 issued server command: /kill @e[type=!player]
+[02:33:56] [Server thread/INFO]: [CJML5067: Killed 137 entities]
+[02:34:00] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult

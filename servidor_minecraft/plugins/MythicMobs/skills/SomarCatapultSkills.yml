@@ -45,7 +45,7 @@ explotar:
     - effect:particles @RandomLocationsNearOrigin{r=10;a=20}
 montar:
   Skills:
-    - mountmodel{mid=CatapultaSomarfinal;mode=walking;driver=false;pbone=P_puesto3} @Trigger
+    - mountmodel{mid=CatapultaSomarfinal;mode=walking;driver=false;pbone=asientofinal,asiento4} @EIRR{min=1;max=10}
 prueba:
   Conditions:
   - hasPassenger orElseCast nomontado

@@ -58,5 +58,5 @@ prueba:
     - msg{m="montado"} @NearestPlayer
 Mira:
  Skills:
-    - particles{p=Electric_Spark;size=60;a=1;uel=true;forwardOffset=3;yOffset=5;vd=5} @Self
-    - particles{p=flame;size=0.4;a=5;uel=true;forwardOffset=3;yOffset=15;vd=5;vs=4} @Self
+    - particles{p=Electric_Spark;size=60;a=1;uel=true;forwardOffset=3;yOffset=5;vd=3} @Self
+    - particles{p=Trial_Spawner_Detection;size=0.6;a=15;uel=true;forwardOffset=3;yOffset=6;vd=3;vs=0.4} @Self

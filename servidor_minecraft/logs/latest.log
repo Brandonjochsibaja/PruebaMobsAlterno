@@ -209,3 +209,59 @@
 [00:43:06] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 3 models loaded.
 [00:43:07] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] 
 [00:43:07] [Craft Scheduler Thread - 1 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[00:54:29] [User Authenticator #0/INFO]: UUID of player CJML5067 is 05d89580-8d76-339c-aefb-9e7196b6ba3c
+[00:54:30] [Server thread/INFO]: CJML5067 joined the game
+[00:54:30] [Server thread/INFO]: CJML5067[/127.150.122.140:42663] logged in with entity id 126 at ([world]36.93047431217205, 65.0, 10.231724838733006)
+[00:55:10] [Server thread/INFO]: [ModelEngine] [S] Config reloaded.
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/INFO]: [ModelEngine] [A] 
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/INFO]: [ModelEngine] [A] [Importing models]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/INFO]: [ModelEngine] [A] 
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/INFO]: [ModelEngine] [A] Importing CatapultaSomarfinal.bbmodel.
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone palobrazo has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 1.9301446495235096E-14 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone prensastroncosgiratorios_ruedastraseras has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone prensastroncosgiratorios_ruedastraseras has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone prensastroncosgiratorios_ruedastraseras has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone prensastroncosgiratorios_ruedasdelanteras has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone prensastroncosgiratorios_ruedasdelanteras has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone arreglocuchara has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.638071642252509E-15 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone arreglocuchara has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.638071642252509E-15 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone arreglocuchara has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ -5.182842985351505E-15 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone arreglocuchara has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.638071642252509E-15 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone arreglocuchara has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.638071642252509E-15 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone arreglocuchara has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.638071642252509E-15 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone pedazostroncosdiag has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 1.3044152888906646E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone pedazostroncosdiag has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ -2.2489917371991408E-14 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone traseros has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 1.3044152888906646E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone traseros has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ -2.2489917371991408E-14 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone tablones has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone tablones has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone tablones has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone tablones has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone tablones has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone tablones has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone tablones has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube Redstone3 in bone redstone3_ap has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube Redstone4 in bone redstone4_ap has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube Redstone2 in bone redstone2_ap has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube Redstone1 in bone redstone1_ap has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube Redstone2 in bone redstone2_enc has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube Redstone3 in bone redstone3_enc has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube Redstone1 in bone redstone1_enc has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube Redstone4 in bone redstone4_enc has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/INFO]: [ModelEngine] [A] 
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/INFO]: [ModelEngine] [A] Importing EnemigoSomar.bbmodel.
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] ------Unknown keyframe data: query.target_x_rotation
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] ------Unknown keyframe data: query.target_y_rotation
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone auxblock has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/INFO]: [ModelEngine] [A] 
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/INFO]: [ModelEngine] [A] Importing SomarSoldier.bbmodel.
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] ------Unknown keyframe data: query.target_x_rotation
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] ------Unknown keyframe data: query.target_y_rotation
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/WARN]: [ModelEngine] [A] --Warning: The cube cube in bone auxblock has illegal rotations. Cube rotation can only be -45, -22.5, 0, 22.5 and 45. [ 8.301247601642803E-13 ]
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/INFO]: [ModelEngine] [A] 
+[00:55:10] [Craft Scheduler Thread - 18 - ModelEngine/INFO]: [ModelEngine] [A] 3 models loaded.
+[00:55:11] [Craft Scheduler Thread - 18 - ModelEngine/INFO]: [ModelEngine] [A] 
+[00:55:11] [Craft Scheduler Thread - 18 - ModelEngine/INFO]: [ModelEngine] [A] Resource pack zipped.
+[00:57:19] [Server thread/INFO]: CJML5067 issued server command: /mm m s SomarCatapult
+[00:57:48] [Server thread/INFO]: CJML5067 issued server command: /gamemode survival
+[00:57:48] [Server thread/INFO]: [CJML5067: Set own game mode to Survival Mode]

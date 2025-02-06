@@ -1111,3 +1111,552 @@
 [16:19:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
 [16:19:28] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
 [16:19:28] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:19:45] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:19:45] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:19:45] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:19:45] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:19:45] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:19:45] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:19:45] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:19:45] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:19:45] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:19:45] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:19:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:19:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:19:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:19:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:19:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:19:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:19:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:19:45] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:19:45] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:19:45] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:19:59] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:19:59] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:19:59] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:19:59] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:20:00] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:20:00] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:20:00] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:20:00] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:20:00] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:20:00] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:20:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:20:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:20:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:20:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:20:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:20:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:20:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:20:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:20:00] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:20:00] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:20:11] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:20:11] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:20:11] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:20:11] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:20:11] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:20:11] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:20:11] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:20:11] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:20:11] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:20:11] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:20:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:20:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:20:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:20:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:20:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:20:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:20:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:20:11] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:20:11] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:20:11] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:20:23] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:20:23] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:20:23] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:20:23] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:20:23] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:20:23] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:20:23] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:20:23] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:20:23] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:20:23] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:20:23] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:20:23] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:20:23] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:20:23] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:20:23] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:20:23] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:20:23] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:20:23] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:20:23] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:20:23] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:20:53] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:20:53] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:20:53] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:20:53] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:20:53] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:20:53] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:20:53] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:20:53] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:20:53] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:20:53] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:20:53] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:20:53] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:20:53] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:20:53] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:20:53] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:20:53] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:20:53] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:20:53] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:20:53] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:20:53] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:21:04] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:21:04] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:21:04] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:21:04] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:21:04] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:21:04] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:21:04] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:21:04] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:21:04] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:21:04] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:21:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:21:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:21:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:21:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:21:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:21:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:21:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:21:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:21:04] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:21:04] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:21:17] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:21:17] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:21:17] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:21:17] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:21:18] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:21:18] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:21:18] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:21:18] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:21:18] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:21:18] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:21:18] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:21:18] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:21:18] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:21:18] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:21:18] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:21:18] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:21:18] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:21:18] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:21:18] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:21:18] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:21:26] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:21:26] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:21:26] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:21:26] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:21:27] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:21:27] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:21:27] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:21:27] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:21:27] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:21:27] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:21:27] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:21:27] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:21:27] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:21:27] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:21:27] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:21:27] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:21:27] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:21:27] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:21:27] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:21:27] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:22:04] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:22:04] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:22:04] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:22:04] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:22:04] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:22:04] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:22:04] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:22:04] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:22:04] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:22:04] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:22:04] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:22:04] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:22:04] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:22:10] [Craft Scheduler Thread - 26 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 26 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 26 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 26 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 26 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 26 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 26 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 26 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 53 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 53 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 53 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 53 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 40 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 40 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 40 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 40 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:10] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:10] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:10] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:10] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 53 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 53 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 53 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 53 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 51 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 51 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 51 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 51 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 53 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 53 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 53 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 53 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 40 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 40 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 40 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 40 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:11] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:11] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:11] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:11] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 50 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 8 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 55 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 54 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 26 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 26 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 26 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 26 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 40 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 40 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 40 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 40 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 44 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 52 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:12] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] ✗ Configuration Error in Mechanic variableSet
+[16:22:12] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Skill: ContornoVariabs | File: /workspaces/PruebaMobsAlterno/servidor_minecraft/plugins/MythicMobs/skills/SomarCatapultSkills.yml
+[16:22:12] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Error Message: Failed to get variable registry
+[16:22:12] [Craft Scheduler Thread - 23 - MythicMobs/WARN]: [MythicMobs] --| Mechanic Line: setvariable{var=target.posc;t=string;value="lejos"}
+[16:22:32] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:22:32] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:22:32] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:22:32] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:22:33] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:22:33] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:22:33] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:22:33] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:22:33] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:22:33] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:22:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:22:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:22:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:22:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:22:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:22:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:22:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:22:33] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:22:33] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:22:33] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:23:12] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:23:12] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:23:12] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:23:12] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:23:12] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:23:12] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:23:12] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:23:12] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:23:12] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:23:12] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:23:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:23:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:23:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:23:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:23:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:23:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:23:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:23:12] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:23:12] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:23:12] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:23:58] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:23:58] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:23:58] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:23:58] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:23:58] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:23:58] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:23:58] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:23:58] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:23:58] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:23:58] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:23:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:23:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:23:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:23:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:23:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:23:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:23:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:23:58] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:23:58] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:23:58] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:24:15] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:24:15] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:24:15] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:24:15] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:24:15] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:24:15] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:24:15] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:24:15] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:24:15] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:24:15] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:24:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:24:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:24:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:24:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:24:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:24:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:24:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:24:15] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:24:15] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:24:15] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:24:28] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:24:28] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:24:28] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:24:28] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:24:28] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:24:28] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:24:28] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:24:28] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:24:28] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:24:28] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:24:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:24:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:24:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:24:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:24:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:24:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:24:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:24:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:24:28] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:24:28] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:25:00] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:25:00] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:25:00] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:25:00] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:25:00] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:25:00] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:25:00] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:25:00] [Server thread/WARN]: [MythicMobs] Failed to parse Placeholder '': Math and variables in numeric values require premium! Consider getting MythicMobs Premium at www.mythiccraft.io
+[16:25:00] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:25:00] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:25:00] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:25:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:25:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:25:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:25:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:25:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:25:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:25:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:25:00] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:25:00] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:25:00] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:25:50] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:25:50] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:25:50] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:25:50] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:25:50] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:25:50] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:25:50] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:25:50] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:25:50] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:25:50] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:25:50] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:25:50] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:25:50] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:25:50] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:25:50] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:25:50] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:25:50] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:25:50] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:25:50] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:25:50] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:27:27] [Server thread/INFO]: [Mythic] Reloading plugin...
+[16:27:27] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[16:27:27] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[16:27:27] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[16:27:28] [Server thread/INFO]: [MythicMobs] Loading Items...
+[16:27:28] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[16:27:28] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[16:27:28] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[16:27:28] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[16:27:28] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[16:27:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[16:27:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[16:27:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[16:27:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 55 skills.
+[16:27:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[16:27:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[16:27:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[16:27:28] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[16:27:28] [Server thread/INFO]: [Mythic] Mythic has finished reloading!
+[16:27:28] [Server thread/INFO]: [MythicMobs] Mythic has finished reloading!
+[16:27:47] [Server thread/INFO]: CJML5067 issued server command: /gamemode survival
+[16:27:47] [Server thread/INFO]: [CJML5067: Set own game mode to Survival Mode]
+[16:27:58] [Server thread/INFO]: CJML5067 issued server command: /gamemode creative
+[16:27:58] [Server thread/INFO]: [CJML5067: Set own game mode to Creative Mode]

@@ -58,5 +58,5 @@ prueba:
     - msg{m="montado"} @NearestPlayer
 Mira:
  Skills:
-    - particles{p=Electric_Spark;size=60;a=1;uel=true;forwardOffset=3;yOffset=5;vd=3} @Self
-    - particles{p=flame;size=0.1;a=14;uel=true;forwardOffset=3;yOffset=10;vd=3;vs=0} @Ring{rotationz=7;relative=true;r=1}
+    - particles{p=Electric_Spark;size=60;a=1;uel=true;forwardOffset=3;yOffset=5;vd=1} @Self
+    - particles{p=flame;size=0.001;a=1;uel=true;forwardOffset=3;yOffset=9.3;vd=1;vs=0} @Ring{rotationz=8;relative=true;r=0.5;p=10}

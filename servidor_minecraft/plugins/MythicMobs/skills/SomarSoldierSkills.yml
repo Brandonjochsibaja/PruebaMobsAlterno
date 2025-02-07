@@ -1,6 +1,6 @@
 Pruebavariable:
   Skills:
-    - message{m=<caster.var.atackeruuid>} @NearestPlayer
+    - message{m="marcando - <caster.var.animacion>"} @NearestPlayer
 AtaqueSomarSoldier:
   Cooldown: 20
   Conditions:

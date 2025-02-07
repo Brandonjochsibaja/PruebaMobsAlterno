@@ -22,7 +22,6 @@ ContornoVariabs:
     - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=60}
     - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=12;rot=190}
     - setvariable{var=target.posc;t=string;value="lejos"} @EIRR{min=8;max=10}
-    - message{m="marcando - <target.var.posc>"} @World
 Accion:
   TriggerConditions:
     - variableEquals{key=caster.posc;value="derecha"} Cast GirarDerecha
@@ -51,11 +50,35 @@ explotar:
 montar:
   Skills:
     - mountmodel{mid=CatapultaSomarfinal;mode=walking;driver=false;pbone=asientoprinc,asientoIzq,asientoDere}
-prueba:
-  Conditions:
-  - hasPassenger orElseCast nomontado
+MarcCatapult1:
+  TargetConditions:
+    - variableEquals{key=animacion;value=catapulta1} false
   Skills:
-    - msg{m="montado"} @NearestPlayer
+    - setvariable{var=animacion;value=Catapulta1}
+MarcCatapult2:
+  TargetConditions:
+    - variableEquals{key=animacion;value=catapulta2} false
+  Skills:
+    - setvariable{var=animacion;value=Catapulta2}
+MarcCatapult3:
+  TargetConditions:
+    - variableEquals{key=animacion;value=catapulta3} false
+  Skills:
+    -  setvariable{var=animacion;value=Catapulta3}
+    
+AvisoCatap:
+  Conditions:
+    - targets {a<=3}
+  TargetConditions:
+    - faction{f=Somar}
+  Skills:
+    - Skill{s=MarcCatapult1} 
+    - delay 3
+    - Skill{s=MarcCatapult2}
+    - delay 3
+    - Skill{s=MarcCatapult3}
+    - delay 3
+
 Mira:
  Skills:
     - particles{p=Electric_Spark;size=60;a=1;uel=true;forwardOffset=3;yOffset=5;vd=1} @Self

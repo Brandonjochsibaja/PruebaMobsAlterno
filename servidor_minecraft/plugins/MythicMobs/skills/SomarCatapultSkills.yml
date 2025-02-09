@@ -46,38 +46,44 @@ explotar:
     - explosion{fire=true;y=10;bd=true} @Origin
     - effect:particles @RandomLocationsNearOrigin{r=4;a=7}
     - delay 10
+    - throw{velocity=15;velocityY=5} @EntitiesNearOrigin{r=7}
     - effect:particles @RandomLocationsNearOrigin{r=10;a=20}
 montar:
   Skills:
     - mountmodel{mid=CatapultaSomarfinal;mode=walking;driver=false;pbone=asientoprinc,asientoIzq,asientoDere}
 MarcCatapult1:
   TargetConditions:
-    - variableEquals{key=animacion;value=catapulta1} false
+    - variableEquals{key=catapulta;value=1} false
   Skills:
-    - setvariable{var=animacion;value=Catapulta1}
+    - setvariable{var=catapulta;value=1}
 MarcCatapult2:
   TargetConditions:
-    - variableEquals{key=animacion;value=catapulta2} false
+    - variableEquals{key=catapulta;value=1} false
+    - variableEquals{key=catapulta;value=2} false
   Skills:
-    - setvariable{var=animacion;value=Catapulta2}
+    - setvariable{var=catapulta;value=2}
 MarcCatapult3:
   TargetConditions:
-    - variableEquals{key=animacion;value=catapulta3} false
+    - variableEquals{key=catapulta;value=1} false
+    - variableEquals{key=catapulta;value=2} false
+    - variableEquals{key=catapulta;value=3} false
   Skills:
-    -  setvariable{var=animacion;value=Catapulta3}
+    -  setvariable{var=catapulta;value=3}
     
 AvisoCatap:
   Conditions:
     - targets {a<=3}
+    - variableEquals{key=Catapulteros;value="false"}
   TargetConditions:
     - faction{f=Somar}
   Skills:
-    - Skill{s=MarcCatapult1} 
+    - Skill{s=MarcCatapult1} @RandomThreatTarget
     - delay 3
-    - Skill{s=MarcCatapult2}
+    - Skill{s=MarcCatapult2} @RandomThreatTarget
     - delay 3
-    - Skill{s=MarcCatapult3}
+    - Skill{s=MarcCatapult3} @RandomThreatTarget
     - delay 3
+    - setVariable{key=caster.Catapulteros;value="true"} @Self
 
 Mira:
  Skills:

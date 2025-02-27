@@ -35,32 +35,30 @@ SomarSoldier:
   AITargetSelectors:
     - clear
     - atacker
-    - monsters
-    - players
-    - specificfaction{f=CatapultaSomar}
+    - spesificFaction{f=SomarEnemies}
   AIgoalSelectors:
     - 0 clear
     - 1 meleeatack
   Options:
     PreventSunburn: true
     FollowRange: 100
-    movementspeed: 1.2
+    movementspeed: 2
   Modules:
     ThreatTable: true
   Health: 100
   damage: 75
   Skills:
     - skill{s=PrepareModelSomar} @Self ~onSpawn
-    - skill{s=AtaqueSomarSoldier;sync=true} ~onAttack
+    - skill{s=AtaqueSomarSoldier;sync=true} @EIR{r=5;target=player,SomarEnemies} ~onAttack
     - skill{s=DamagedAnimation;sync=true} ~onDamaged 0.2
-#    - skill{s=walk} @Self ~onTimer:1
     - skill{s=persIdle;sync=true} @Self ~onTimer:1
     - skill{s=MuerteExtAnimation;sync=true} @UniqueIdentifier{uuid=<caster.var.atackeruuid>} ~onDeath 
-    - skill{s=Pruebavariable} ~onTimer:10
-    - skill{s=Posicion1} ~onTimer:10
+    - skill{s=avisarIda} ~onDeath
+    - skill{s=Pruebavariable} @Trigger ~onInteract
+    - skill{s=PosicSoldCatapultero} ~onTimer:20
+#    - skill{s=pruebaFaccion} ~onTimer:15
 
   #Enemigos de Somar
-
 SomarEnemies:
   Type: Zombie
   Display: '&aSoldado Enemigo'
@@ -84,7 +82,7 @@ SomarEnemies:
   Skills:
     - skill{s=PrepareModel} @Self ~onSpawn
     - skill{s=EAtaqueSomarSoldier;sync=true} ~onAttack
-    - skill{s=EDamagedAnimation;sync=true} ~onDamaged
+#    - skill{s=EDamagedAnimation;sync=true} ~onDamaged
 #    - skill{s=Ewalk} @Self ~onTimer:1
     - skill{s=EacabarkillAnimation;sync=true} ~onSignal:killerAnimation
     - skill{s=EpersIdle;sync=true;sync=true} @Self ~onTimer:1

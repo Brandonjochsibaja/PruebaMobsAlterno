@@ -1,27 +1,46 @@
 CPrepareModelSomar:
   Skills:
     - model{mid=CatapultaSomarfinal;n="Somar Catapult";ride=true}
+    - delay 10
+    - setvariable{var=caster.solds;t=string;value="false"}
+#    - setvariable{var=caster.etapaSolds;t=string;value="sinSolds"}
+    - setvariable{var=caster.sold1;t=String;value="false"}
+    - delay 10
+    - setvariable{var=caster.sold2;t=String;value="false"}
+    - delay 10
+    - setvariable{var=caster.sold3;t=String;value="false"}
+#    - setFaction{faction=Somar} @NearestPlayer
+#soldsApuntar:
+#  Skills:
+#    - 
 Disparar:
-  TriggerConditions:
-    - itemissimilar{item=iron_axe;slot=hand} false
   Skills:
     - skill{s=lanzarBloque}
+#CargarBloque:
+
 lanzarBloque:
   Cooldown: 15
   Skills:
     - state{mid=CatapultaSomarfinal;s=animationLanzarBloque3} @Self
-    - message{m="disparando"} @NearestPlayer
+#    - message{m="disparando"} @NearestPlayer
     - delay 55
-    - projectile{bullet=block;material=STONE;vO=1.3;g=0.17;v=21;syo=15;sfo=1.8;mr=500;int=0.001;onHitBlockSkill=explotar;dd=300} @Forward{a=10}
+    - projectile{bullet=block;material=STONE;vO=1.3;g=0.17;v=21;syo=15;sfo=1.8;mr=500;int=0.001;onHitBlockSkill=explocion;dd=300} @Forward{a=10}
 
 ContornoVariabs: 
   TargetConditions:
     - (isMythicMob || isPlayer) true
+    - isLiving true
   Skills:
-    - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=270}
-    - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=60}
-    - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=12;rot=190}
-    - setvariable{var=target.posc;t=string;value="lejos"} @EIRR{min=8;max=10}
+    - setvariable{var=target.posc;t=string;value="derecha"} @LivingInCone{a=120;r=5;rot=270;conditions=[
+                              - (isMythic true || isPlayer true) true]}
+    - setvariable{var=target.posc;t=string;value="izquierda"} @LivingInCone{a=120;r=5;rot=60;conditions=[
+                              - (isMythic true || isPlayer true) true]}
+    - setvariable{var=target.posc;t=string;value="atras"} @LivingInCone{a=30;r=12;rot=190;conditions=[
+                              - (isMythic true || isPlayer true) true]}
+    - setvariable{var=target.posc;t=string;value="lejos"} @EIRR{min=8;max=10;conditions=[
+                              - (isMythic true || isPlayer true) true]}
+    - setvariable{var=target.posc;t=string;value="Muylejos"} @EIRR{min=11;max=20;conditions=[
+                              - isMythic true]}
 Accion:
   TriggerConditions:
     - variableEquals{key=caster.posc;value="derecha"} Cast GirarDerecha
@@ -30,7 +49,12 @@ Accion:
 #    - variableEquals{key=target.posc;value="lejos"} true
   Skills:
     - cancelevent
-    - message{m="interactuando"} @NearestPlayer
+#    - message{m="interactuando"} @NearestPlayer
+filtrarDano:
+  TriggerConditions:
+    - (itemissimilar{item=iron_axe} || itemissimilar{item=stone_axe} || itemissimilar{item=diamond_axe} 
+      || itemissimilar{item=golden_axe} || itemissimilar{item=netherite_axe}) orElseCast Accion
+  Skills:
 GirarDerecha:
   Skills:
     - cancelevent
@@ -41,50 +65,111 @@ GirarIzquierda:
     - cancelevent
     - message{m="interactuandoI"} @NearestPlayer
     - setrotation{relative=true;pitch=0;yaw=-15} @Self
-explotar:
+explocion:
   Skills:
     - explosion{fire=true;y=10;bd=true} @Origin
     - effect:particles @RandomLocationsNearOrigin{r=4;a=7}
     - delay 10
     - throw{velocity=15;velocityY=5} @EntitiesNearOrigin{r=7}
     - effect:particles @RandomLocationsNearOrigin{r=10;a=20}
-montar:
+montarCtp:
   Skills:
     - mountmodel{mid=CatapultaSomarfinal;mode=walking;driver=false;pbone=asientoprinc,asientoIzq,asientoDere}
-MarcCatapult1:
-  TargetConditions:
-    - variableEquals{key=catapulta;value=1} false
+soldEmpjCtp:
   Skills:
-    - setvariable{var=catapulta;value=1}
-MarcCatapult2:
-  TargetConditions:
-    - variableEquals{key=catapulta;value=1} false
-    - variableEquals{key=catapulta;value=2} false
+    - dismountall{mid=CatapultaSomarfinal;p=asientoprinc,asientoIzq,asientoDere;sync=true} @self
+soldEmpjCtpDere:
   Skills:
-    - setvariable{var=catapulta;value=2}
-MarcCatapult3:
-  TargetConditions:
-    - variableEquals{key=catapulta;value=1} false
-    - variableEquals{key=catapulta;value=2} false
-    - variableEquals{key=catapulta;value=3} false
+    - mountmodel{mid=CatapultaSomarfinal;mode=walking;driver=false;pbone=empujar_posc_Dere}
+soldEmpjCtpIzq:
   Skills:
-    -  setvariable{var=catapulta;value=3}
-    
-AvisoCatap:
-  Conditions:
-    - targets {a<=3}
-    - variableEquals{key=Catapulteros;value="false"}
-  TargetConditions:
-    - faction{f=Somar}
+    - mountmodel{mid=CatapultaSomarfinal;mode=walking;driver=false;pbone=empujar_posc_Izq}
+DesmontarCtp:
   Skills:
-    - Skill{s=MarcCatapult1} @RandomThreatTarget
-    - delay 3
-    - Skill{s=MarcCatapult2} @RandomThreatTarget
-    - delay 3
-    - Skill{s=MarcCatapult3} @RandomThreatTarget
-    - delay 3
-    - setVariable{key=caster.Catapulteros;value="true"} @Self
+    - dismountall{mid=CatapultaSomarfinal;p=asientoprinc,asientoIzq,asientoDere;sync=true} @self
+DesmontarIzqCtp:
+  Skills:
+    - dismountall{mid=CatapultaSomarfinal;p=asientoIzq;sync=true} @self
+DesmontarDereCtp:
+  Skills:
+    - dismountall{mid=CatapultaSomarfinal;p=asientoDere;sync=true} @self
 
+MarcCatapult1:
+  Cooldown: 20
+  TargetConditions:
+    - variableEquals{var=caster.catapulta;t=INTEGER;value=0}
+  Skills:
+    - message{m="&a Soldado - 1 por reclutar"} @NearestPlayer
+    - setvariable{var=target.catapultuuid;t=String;value="<caster.uuid>"} @Target
+    - setvariable{var=target.catapulta;t=INTEGER;value=1} @Target
+    - sudoSkill{s=reportarseACatapult1} @Target
+    - setFaction{faction=SomarCatapultero} @Target
+    - projectile{bullet=block;material=STONE} @Target
+    - clearthreat @Self
+MarcCatapult2:
+  Cooldown: 20
+  Conditions:
+    - variableEquals{var=caster.sold2;t=String;value="true"} castInstead MarcCatapult2
+  Skills:
+    - setvariable{var=caster.sold2;t=String;value="reclutando"}
+    - delay 10
+    - message{m="&a Soldado - 2 por reclutar"} @NearestPlayer
+    - setvariable{var=target.catapultuuid;t=String;value="<caster.uuid>"} @Target
+    - setvariable{var=target.catapulta;t=INTEGER;value=2} @Target
+    - sudoSkill{s=reportarseACatapult2} @Target
+    - setFaction{f=SomarCatapultero} @Target
+    - projectile{bullet=block;material=STONE} @Target
+    - clearthreat @Self
+MarcCatapult3:
+  Cooldown: 20
+  Conditions:
+    - variableEquals{var=caster.sold3;t=String;value="true"} castInstead MarcCatapult2
+  Skills:
+    - delay 10
+    - setvariable{var=caster.sold3;t=String;value="reclutando"}
+    - delay 10
+    - message{m="&a Soldado - 3 por reclutar"} @NearestPlayer
+    - setvariable{var=target.catapultuuid;t=String;value="<caster.uuid>"} @Target
+    - setvariable{var=target.catapulta;t=INTEGER;value=3} @Target
+    - sudoSkill{s=reportarseACatapult3} @Target
+    - setFaction{f=SomarCatapultero} @Target
+    - projectile{bullet=block;material=STONE} @Target
+    - clearthreat @Self
+
+reclutCatapulteros:
+  Conditions:
+    - targets{a=>2}
+    - variableEquals{var=caster.solds;t=String;value="false"}
+  TargetConditions:
+    - faction{faction=Somar}
+  Skills:
+    - message{m="&a Reclutamiento Iniciado - <caster.var.solds>"} @NearestPlayer
+    - setvariable{var=caster.solds;t=String;value="true"} @Self
+    - delay 20
+    - Skill{s=MarcCatapult1} @Target
+    - delay 20
+    - Skill{s=MarcCatapult2} @Target
+    - delay 20
+    - Skill{s=MarcCatapult3} @Target
+    - delay 20 
+    - setvariable{var=caster.solds;t=String;value="false"} @Self
+    - message{m="&a Reclutamiento Terminado - <caster.var.solds>"} @NearestPlayer
+revSoldCtp:
+  TargetConditions:
+    - faction{f=Somar} orElseCast ctprsPerdidos
+  Skills:
+ctprsPerdidos:
+  Conditions:
+    - variableEquals{var=caster.sold1;t=String;value="false"} castInstead MarcCatapult1
+    - variableEquals{var=caster.sold2;t=String;value="false"} castInstead MarcCatapult2
+    - variableEquals{var=caster.sold3;t=String;value="false"} castInstead MarcCatapult3
+  Skills:
+    - globalcooldown{ticks=40}
+    - msg{m="&9 Soldados completos"} @NearestPlayer
+
+#avisJugador:
+#  Skills:
+#    - msg{m="Se te invito a ser catapultero, en el puesto <target.var.catapulta>"} @Target
 Mira:
  Skills:
     - particles{p=Electric_Spark;size=60;a=1;uel=true;forwardOffset=3;yOffset=5;vd=1} @Self

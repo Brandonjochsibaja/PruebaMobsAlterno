@@ -4,23 +4,23 @@ SomarCatapult:
   Faction: CatapultaSomar
   AITargetSelectors:
     - clear
-    - atacker
-    - monsters
-    - players
+    - specificfaction{f=Somar}
   AIgoalSelectors:
     - 0 clear
   Options:
     FollowRange: 100
     movementspeed: 0
-    noIA: false
+    noIA: true
   Modules:
     ThreatTable: true
   Health: 200
   damage: 75
   Skills:
     - skill{s=CPrepareModelSomar} @Self ~onSpawn
-    - skill{s=montar} @Trigger ~onInteract
+    - skill{s=montarCtp} @Trigger ~onInteract
     - skill{s=Mira} @Self ~onTimer:10
-    - skill{s=AvisoCatap} @Self ~onTimer:1
-    - skill{s=ContornoVariabs} @EIR{r=15} ~onTimer:1
-    - skill{s=Accion;Sync=true} ~onDamaged
+    - skill{s=revSoldCtp} @EIR{r=40} ~onTimer:50
+    - skill{s=ContornoVariabs} @EIR{r=15} ~onTimer:20
+    - skill{s=filtrarDano;Sync=true} ~onDamaged
+    - projectile{bullet=block;material=STONE} @Target ~onTimer:20
+    - message{m="Carapultero 1? - <caster.var.sold1> - Carapultero 2? - <caster.var.sold2> - Carapultero 3? - <caster.var.sold3>"} @NearestPlayer ~onTimer:40

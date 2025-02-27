@@ -1,76 +1,92 @@
 Pruebavariable:
   Skills:
-    - message{m="marcando - <caster.var.Catapulta>"} @NearestPlayer
+    - message{m="&e Catapultero - <caster.var.catapulta> - de catapulta - <caster.var.catapultuuid>"}
+pruebaFaccion:
+  Conditions:
+    - faction{faction=Somar} orElseCast noFaccion
+  Skills:
+    - msg{m="&4Faccion> Somar"} @NearestPlayer
+noFaccion:
+  Skills:
+    - msg{m="&9Faccion cambiada"} @NearestPlayer
 AtaqueSomarSoldier:
-  Cooldown: 20
   Conditions:
     - variableEquals{key=caster.Animacion;value="dmg"} false
     - variableEquals{key=caster.Animacion;value="death"} false
-  Cooldown: 1
   Skills:
     - cancelevent
-    - setVariable{key=caster.ataque;t=String;value="true"} @Self
     - partvis{mid=SomarSoldier;p=right_sword;v=true} @Self
-#    - message{m="inicio"} @NearestPlayer
-    - randomskill{s=AtaqueUnico,AtaqueArea 50}
+    - message{m="inicio"} @NearestPlayer
+    - skill{s=AtaqueArea}
 AtaqueUnico:
+  Cooldown: 1
   Skills:
-  - cancelevent
-  - randomskill{s=AtaqueBase,AtaqueBase2,Estocada}
-#  - message{m="Ataque"} @World
+#    - setVariable{key=caster.ataque;t=String;value="true"} @Self
+    - randomskill{s=AtaqueBase,AtaqueBase2,Estocada}
+    - message{m="Ataque Unico"} @World
 AtaqueArea:
+  Cooldown: 1
+  Conditions:
+    - targets{a=<2} CastInstead AtaqueUnico
   Skills:
-  - cancelevent
-  - randomskill{s=
+    - randomskill{s=
       [- skill{s=AtaqueArea1} @LivingInCone{a=90;r=2;target=monster;ignore=samefaction}],
       [- skill{s=AtaqueArea2} @LivingInCone{a=120;r=2;target=monster;ignore=samefaction}],
-      [- skill{s=AtaqueArea3} @EIR{r=3;target=monster;ignore=samefaction}]}
+      [- skill{s=AtaqueArea3} @EIR{r=3;target=monster;ignore=samefaction}];fbs=persIdle}
 AtaqueBase:
   Skills:
+  - setVariable{key=caster.ataque;t=String;value="true"} @Self
   - state{mid=SomarSoldier;s=animationAtaqueComun;li=0;lo=1;pr=0} @Self
-  - delay 6
-  - basedamage{m=1} @Target
-  - delay 15
+  - delay 7
+  - damage{m=1} @target
+  - delay 1
   - setVariable{key=caster.ataque;t=String;value="false"} @Self
+  - delay 2
   - setVariable{key=caster.Animacion;t=String;value="idle"} @Self
 #  - message{m="finAtaque"} @NearestPlayer
 AtaqueBase2:
   Skills:
+  - setVariable{key=caster.ataque;t=String;value="true"} @Self
   - partvis{mid=SomarSoldier;p=left_sword} @Self
   - delay 1
   - state{mid=SomarSoldier;s=animationAtaqueComun2;li=0;lo=0;pr=0} @Self
-  - delay 12
-  - basedamage{m=1.5} @Forward{f=0to2;uel=true}
-  - delay 30
+  - delay 13
+  - damage{m=1.5} @LivingInCone{a=20;r=3;limit=1}
+  - delay 1
   - setVariable{key=caster.ataque;t=String;value="false"} @Self
   #- partvis{mid=SomarSoldier;p=left_sword;v=true} @Self
+  - delay 2
   - setVariable{key=caster.Animacion;t=String;value="idle"} @Self
 #  - message{m="finAtaque"} @NearestPlayer
 Estocada:
   Skills:
+  - setVariable{key=caster.ataque;t=String;value="true"} @Self
   - state{mid=SomarSoldier;s=animationAtaqueEstocadaDerecha;li=0;lo=1;pr=1} @Self
   - delay 18
-  - basedamage{m=5} @Forward{f=0to4;uel=true}
+  - damage{m=5} @LivingInCone{a=20;r=4;limit=1}
   - delay 2
   - setVariable{key=caster.ataque;t=String;value="false"} @Self
   - setVariable{key=caster.Animacion;t=String;value="idle"} @Self
 #  - message{m="finAtaque"} @NearestPlayer
 AtaqueArea1:
   Conditions:
-    - targets{a=2to3} orElseCast AtaqueUnico
+    - targets{a=2to4} true
   Skills:
+    - setVariable{key=caster.ataque;t=String;value="true"} @Self
     - state{mid=SomarSoldier;s=animationAtaqueArea1} @Self
     - delay 11
     - throw{velocity=10;velocityY=1} 
-    - basedamage{m=1}
-    - delay 26
+    - damage{m=1}
+    - delay 24
     - setVariable{key=caster.ataque;t=String;value="false"} @Self
+    - delay 2
     - setVariable{key=caster.Animacion;t=String;value="idle"} @Self
 #    - message{m="finAtaque"} @NearestPlayer
 AtaqueArea2:
   Conditions:
-    - targets{a=3to4} orElseCast AtaqueArea1
+    - targets{a=2to4} orElseCast AtaqueArea1
   Skills:
+    - setVariable{key=caster.ataque;t=String;value="true"} @Self
     - state{mid=SomarSoldier;s=animationAtaqueArea2} @Self
     - delay 15
     - throw{velocity=5;velocityY=1} 
@@ -83,6 +99,7 @@ AtaqueArea3:
   Conditions:
     - targets{a=>5} orElseCast AtaqueArea2
   Skills:
+    - setVariable{key=caster.ataque;t=String;value="true"} @Self
     - state{mid=SomarSoldier;s=animationAtaqueArea3} @Self
     - delay 20
     - throw{velocity=30;velocityY=2} 
@@ -171,6 +188,84 @@ MuerteExtAnimation:
     - Signal{s=killerAnimation}
     - state{mid=SomarSoldier;s=death2} @Self
     - msg{m=intentoEnviarSenal} @NearestPlayer
+
+#Reportarse a catapulta
+reportarseACatapult1:
+  Skills:
+    - setvariable{var=caster.sold1;t=String;value="reclutando"}@UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+    - delay 10
+    - setvariable{var=target.sold1;t=String;value="true"} @UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+reportarseACatapult2:
+  Skills:
+    - setvariable{var=caster.sold2;t=String;value="reclutando"}@UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+    - delay 10
+    - setvariable{var=target.sold2;t=String;value="true"} @UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+reportarseACatapult3:
+  Skills:
+    - setvariable{var=caster.sold3;t=String;value="reclutando"}@UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+    - delay 10
+    - setvariable{var=target.sold3;t=String;value="true"} @UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+#Ir a catapulta
+IrACataputa:
+  Cooldown: 50
+  Skills:
+    - goto{speedModifier=1;sh=5;sv=5} @UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+PosicSoldCatapultero:
+  Conditions:
+    - faction{f=SomarCatapultero} true
+    - variableEquals{var=caster.posc;t=String;value="lejos"} castInstead CatapultaAlcanzada
+  Skills:
+#    - msg{m="&e llendo - soldado - <caster.var.catapulta>"} @NearestPlayer
+    - skill{s=IrACataputa}
+CatapultaAlcanzada:
+  Conditions:
+    - variableEquals{var=caster.catapulta;t=Integer;value=1} cast CtpPosicion1
+    - variableEquals{var=caster.catapulta;t=Integer;value=2} cast CtpPosicion2
+    - variableEquals{var=caster.catapulta;t=Integer;value=3} cast CtpPosicion3
+  Skills:
+CtpPosicion1:
+    Skills:
+      - sudoSkill{s=montarCtp;t=@Self} @UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+#      - msg{m="&e llego - soldado - <caster.var.catapulta>"} @NearestPlayer
+      - setai{ai=false}
+CtpPosicion2:
+    Conditions:
+      - variableEquals{var=caster.posc;t=String;value="derecha"} false
+    Skills:
+      - sudoSkill{s=soldEmpjCtpIzq;t=@Self} @UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+#      - msg{m="&e llego - soldado - <caster.var.catapulta>"} @NearestPlayer
+      - setai{ai=false}
+CtpPosicion3:
+    Conditions:
+      - variableEquals{var=caster.posc;t=String;value="derecha"} false
+    Skills:
+      - sudoSkill{s=soldEmpjCtpDere;t=@Self} @UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+#      - msg{m="&e llego - soldado - <caster.var.catapulta>"} @NearestPlayer
+      - setai{ai=false}
+avisarIda:
+  Conditions:
+    - variableEquals{var=caster.catapulta;t=INTEGER;value=1} castInstead avisarIda1
+    - variableEquals{var=caster.catapulta;t=INTEGER;value=2} castInstead avisarIda2
+    - variableEquals{var=caster.catapulta;t=INTEGER;value=3} castInstead avisarIda3
+#Como soldado 1
+avisarIda1:
+  Conditions:
+    - faction{faction=SomarCatapultero}
+  Skills:
+    - setvariable{var=target.sold1;t=String;value="false"} @UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+#Como soldado 2
+avisarIda2:
+  Conditions:
+    - faction{faction=SomarCatapultero}
+  Skills:
+    - setvariable{var=target.sold2;t=String;value="false"} @UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+#Como soldado 3
+avisarIda3:
+  Conditions:
+    - faction{faction=SomarCatapultero}
+  Skills:
+    - setvariable{var=target.sold3;t=String;value="false"} @UniqueIdentifier{uuid=<caster.var.catapultuuid>}
+
 acabarkillAnimation:
   Skills:
     - partvis{mid=SomarSoldier;p=right_sword;v=true} @Self
@@ -179,11 +274,6 @@ acabarkillAnimation:
 MuerteNormAnimation:
   Skills:
     - defaultstate{mid=SomarSoldier;type=death;state=death1} @Self
-Posicion1:
-  Conditions:
-    - variableEquals{key=caster.var.posc;value=lejos} castInstead Espera
-  Skills:
-    - goto{x=<Target.l.x>;y=<Target.l.y>;z=<Target.l.z>}
 PrepareModelSomar:
   Skills:
     - model{mid=SomarSoldier;n="Somar Soldier"}
@@ -194,4 +284,5 @@ PrepareModelSomar:
     - setVariable{key=caster.ataque;t=String;value="false"}
     - setVariable{key=caster.Animacion;t=String;value="idle"}
     - setvariable{var=caster.atackeruuid;type=STRING;val="noUiid"} @Self
+    - setvariable{var=target.catapulta;type=Integer;val=0} @Self
   
